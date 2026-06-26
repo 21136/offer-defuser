@@ -21,12 +21,12 @@
 
 **Why**: 风格切换（😄 松弛自嘲 / 💼 务实高效）已上线但功能对用户不可见——serious 模式没有专属文案，只能 fallback 到全部选项。本质是一个对用户可见的功能缺口，应优先于工程基建修复。
 
-### P1: Git 初始化 + 推送到 GitHub
+### P1: Git 初始化 + 推送到 GitHub ✅ 2026-06-26
 
-- [ ] `git init` + `git add .` + 初始 commit
-- [ ] 创建 GitHub 仓库 `offer-defuser`
-- [ ] README 放上在线链接 + Lighthouse 四项满分截图
-- [ ] 补充 `.gitignore`（确认 `node_modules/`, `dist/`, `.vercel/` 已在忽略列表）
+- [x] `git init` + `git add .` + 初始 commit（105 files, 32,543 lines）
+- [x] 创建 GitHub 仓库 [`offer-defuser`](https://github.com/21136/offer-defuser)
+- [x] `.gitignore` 补充 `lighthouse-report*` + `*.tsbuildinfo`
+- [x] 作者信息使用 GitHub no-reply 邮箱，无个人信息泄露
 
 **Why**: 工程基建，不影响用户体验，但无 git = 无变更历史、无 GitHub 主页、面试无法展示 commit 记录。30 分钟可完成。
 
@@ -55,7 +55,7 @@
 
 - [ ] **E2E 测试补充** — 新增 P2 功能（tone 切换、style 切换、一键重置）缺少 e2e 覆盖
 - [ ] **单元测试补充** — `displayName.ts`、styleMode 过滤逻辑缺少单元测试
-- [ ] **Git 初始化** — 项目目前不在 git 版本管理中
+- [x] **Git 初始化** — 项目已在 git 版本管理中
 
 ## 2026-06-26 已完成
 
