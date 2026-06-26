@@ -1,0 +1,122 @@
+﻿[
+  {
+    "id": 1,
+    "text": "距离心仪岗位的截止日期还有两周，你通常会——",
+    "options": [
+      { "text": "早就准备好了，现在只是在等时间到了投", "scores": { "delay": -3, "apply": 2, "perfect": 2, "interview": 1 } },
+      { "text": "列了一个详细计划，每天按部就班推进", "scores": { "delay": -2, "apply": 1, "perfect": 1, "interview": 0 } },
+      { "text": "有点慌，但开始每天看面经准备了", "scores": { "delay": 1, "apply": 0, "perfect": -1, "interview": -1 } },
+      { "text": "觉得还有两周呢，先不急，最后三天再说", "scores": { "delay": 3, "apply": -2, "perfect": -2, "interview": -2 } }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "看到一个新发布的岗位 JD，你的第一反应是——",
+    "options": [
+      { "text": "快速扫一眼，觉得差不多就投了", "scores": { "delay": -1, "apply": 3, "perfect": -2, "interview": 0 } },
+      { "text": "逐条对照 JD 和自己的简历，不匹配 80% 以上不投", "scores": { "delay": 0, "apply": -2, "perfect": 3, "interview": 0 } },
+      { "text": "先收藏，等准备好了再投", "scores": { "delay": 2, "apply": -3, "perfect": 1, "interview": 0 } },
+      { "text": "看看公司和薪资，合适就投，不合适就划走", "scores": { "delay": 0, "apply": 1, "perfect": -1, "interview": 1 } }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "你的简历修改次数最接近——",
+    "options": [
+      { "text": "写完就投，不改了", "scores": { "delay": -2, "apply": 3, "perfect": -3, "interview": 1 } },
+      { "text": "改了两三版，请学长学姐看过就定了", "scores": { "delay": -1, "apply": 1, "perfect": 0, "interview": 0 } },
+      { "text": "改了 5-10 版，每次都觉得还能优化", "scores": { "delay": 1, "apply": -1, "perfect": 2, "interview": -1 } },
+      { "text": "已经改了无数版，感觉永远改不完", "scores": { "delay": 3, "apply": -3, "perfect": 3, "interview": -2 } }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "投递简历后没有收到回复，你会——",
+    "options": [
+      { "text": "很正常，继续投下一个", "scores": { "delay": -1, "apply": 2, "perfect": -1, "interview": 2 } },
+      { "text": "分析是不是简历有问题，改一版再投别的", "scores": { "delay": 0, "apply": 1, "perfect": 2, "interview": 0 } },
+      { "text": "有点失落，暂停投递几天缓一缓", "scores": { "delay": 2, "apply": -2, "perfect": 0, "interview": -1 } },
+      { "text": "完蛋了，我是不是找不到工作了，开始怀疑人生", "scores": { "delay": 3, "apply": -3, "perfect": 0, "interview": -3 } }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "收到面试邀请后，你的准备方式是——",
+    "options": [
+      { "text": "随便看看面经就去了，临场发挥", "scores": { "delay": -2, "apply": 1, "perfect": -2, "interview": 3 } },
+      { "text": "系统准备：刷面经、整理项目话术、模拟面试", "scores": { "delay": -3, "apply": 0, "perfect": 2, "interview": 0 } },
+      { "text": "把可能问到的问题全部写下来，逐字背稿", "scores": { "delay": 1, "apply": -1, "perfect": 3, "interview": -2 } },
+      { "text": "紧张到睡不着，反复想最坏的情况", "scores": { "delay": 2, "apply": -2, "perfect": 0, "interview": -3 } }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "关于笔试/技术面，你的状态是——",
+    "options": [
+      { "text": "一直在刷题，LeetCode 周赛常驻", "scores": { "delay": -3, "apply": -1, "perfect": 2, "interview": 1 } },
+      { "text": "知道要刷但一直拖延，考前突击", "scores": { "delay": 2, "apply": 0, "perfect": -1, "interview": -1 } },
+      { "text": "笔试还行，但一到面试就紧张说不出话", "scores": { "delay": 0, "apply": 0, "perfect": 0, "interview": -3 } },
+      { "text": "裸考选手，觉得笔试不重要", "scores": { "delay": 2, "apply": 2, "perfect": -3, "interview": 2 } }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "你同时在投多少个岗位？",
+    "options": [
+      { "text": "50+，看到差不多的就投", "scores": { "delay": -1, "apply": 3, "perfect": -3, "interview": 1 } },
+      { "text": "10-20 个，精选和自己匹配的", "scores": { "delay": 0, "apply": 0, "perfect": 1, "interview": 0 } },
+      { "text": "5 个以内，只投最想去的", "scores": { "delay": 1, "apply": -3, "perfect": 2, "interview": -1 } },
+      { "text": "还没开始投，还在准备", "scores": { "delay": 3, "apply": -3, "perfect": 0, "interview": -2 } }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "面试被问到不会的问题时，你会——",
+    "options": [
+      { "text": "诚实说不会，但展示相关的知识储备", "scores": { "delay": -1, "apply": 1, "perfect": 0, "interview": 2 } },
+      { "text": "硬着头皮瞎编，不能冷场", "scores": { "delay": 0, "apply": 2, "perfect": -1, "interview": 1 } },
+      { "text": "大脑一片空白，后面全程紧张", "scores": { "delay": 1, "apply": -1, "perfect": 1, "interview": -3 } },
+      { "text": "早有准备，提前整理了应对不会问题的策略", "scores": { "delay": -3, "apply": 0, "perfect": 2, "interview": 1 } }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "面试结束后，你通常会——",
+    "options": [
+      { "text": "复盘自己的表现，记录哪里可以改进", "scores": { "delay": -2, "apply": 1, "perfect": 2, "interview": 0 } },
+      { "text": "不管结果，直接准备下一场", "scores": { "delay": -1, "apply": 2, "perfect": -1, "interview": 2 } },
+      { "text": "反复回想自己说错的话，越想越难受", "scores": { "delay": 2, "apply": -2, "perfect": 1, "interview": -3 } },
+      { "text": "发个消息问 HR 反馈，主动跟进", "scores": { "delay": -2, "apply": 2, "perfect": 0, "interview": 1 } }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "关于项目经历，你的情况是——",
+    "options": [
+      { "text": "有几个完成度很高的项目，能详细讲技术细节", "scores": { "delay": -2, "apply": 1, "perfect": 1, "interview": 2 } },
+      { "text": "项目不多，但都是自己认真做的", "scores": { "delay": 0, "apply": 0, "perfect": 0, "interview": 0 } },
+      { "text": "有项目但总觉得不够好，一直在重构", "scores": { "delay": 1, "apply": -2, "perfect": 3, "interview": -1 } },
+      { "text": "没什么项目经验，简历上写了课程设计", "scores": { "delay": 1, "apply": -1, "perfect": -1, "interview": -2 } }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "同学拿到 Offer 而你没有时，你的反应是——",
+    "options": [
+      { "text": "替他高兴，同时反思自己的不足", "scores": { "delay": -1, "apply": 1, "perfect": 0, "interview": 1 } },
+      { "text": "有点焦虑但很快调整，继续投自己的", "scores": { "delay": 0, "apply": 1, "perfect": -1, "interview": 0 } },
+      { "text": "心情低落好几天，觉得自己不行", "scores": { "delay": 2, "apply": -2, "perfect": 0, "interview": -3 } },
+      { "text": "疯狂对比自己和他的差距，陷入自我否定", "scores": { "delay": 3, "apply": -3, "perfect": 1, "interview": -2 } }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "你对求职的整体心态是——",
+    "options": [
+      { "text": "尽人事听天命，尽力就好", "scores": { "delay": -1, "apply": 1, "perfect": -1, "interview": 3 } },
+      { "text": "按计划推进，相信会有好结果", "scores": { "delay": -2, "apply": 0, "perfect": 1, "interview": 2 } },
+      { "text": "焦虑但不想让别人看出来", "scores": { "delay": 1, "apply": -1, "perfect": 1, "interview": -2 } },
+      { "text": "每天刷招聘信息刷到焦虑，但就是不动手准备", "scores": { "delay": 3, "apply": 0, "perfect": -2, "interview": -2 } }
+    ]
+  }
+]

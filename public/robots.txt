@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://offer-defuser.vercel.app/sitemap.xml

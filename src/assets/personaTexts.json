@@ -1,0 +1,18 @@
+{
+  "mass-applyer": { "personaId": "mass-applyer", "strengths": ["投递量大，覆盖面广", "心态随缘不纠结"], "weaknesses": ["简历缺乏针对性", "面试准备不足"], "advice": "精选 5 家重点突破，质量胜过数量", "tagline": "你的求职信条：投了就是赚了" },
+  "resume-anxious": { "personaId": "resume-anxious", "strengths": ["认真对待每次投递", "自我驱动力强"], "weaknesses": ["过度焦虑导致行动迟缓", "容易自我否定"], "advice": "先投出去再说，第一份 Offer 是最好的解药", "tagline": "你不是不够好，你只是还没开始" },
+  "jd-perfectionist": { "personaId": "jd-perfectionist", "strengths": ["简历质量高", "对岗位理解深入"], "weaknesses": ["投递量太少", "错过窗口期"], "advice": "80% 匹配就投，面试中再补差距", "tagline": "完美是 80 分的敌人" },
+  "ddl-sprinter": { "personaId": "ddl-sprinter", "strengths": ["爆发力强", "压力下效率高"], "weaknesses": ["准备不充分", "质量不稳定"], "advice": "提前 3 天设定假 DDL，留缓冲时间", "tagline": "DDL 是你的肾上腺素" },
+  "big-firm-only": { "personaId": "big-firm-only", "strengths": ["目标明确", "竞争力强"], "weaknesses": ["风险集中", "可能全军覆没"], "advice": "大厂冲一个，保底备两个，不要背水一战", "tagline": "眼光高没问题，但别把鸡蛋放一个篮子里" },
+  "broad-net": { "personaId": "broad-net", "strengths": ["机会多", "心态轻松"], "weaknesses": ["缺乏重点", "简历泛泛"], "advice": "海投中挑 3 家重点准备面试", "tagline": "广撒网也能捞到好鱼，前提是网够结实" },
+  "over-preparer": { "personaId": "over-preparer", "strengths": ["准备充分", "细节到位"], "weaknesses": ["临场紧张", "过度内耗"], "advice": "准备 3 个核心故事就够，剩下的临场发挥", "tagline": "你已经准备够了，现在只需要一点松弛感" },
+  "zen-master": { "personaId": "zen-master", "strengths": ["心态稳定", "不焦虑"], "weaknesses": ["投递量可能不足", "错失机会"], "advice": "保持好心态的同时，每周定量投 5 份", "tagline": "佛系不是不努力，是不被结果绑架" },
+  "project-refactorer": { "personaId": "project-refactorer", "strengths": ["技术功底扎实", "追求卓越"], "weaknesses": ["永远在准备、从不投递", "错过时间窗口"], "advice": "项目 60 分就投，面试中展示迭代思路", "tagline": "你的代码在重构，你的 Offer 在等你" },
+  "intern-only": { "personaId": "intern-only", "strengths": ["方向明确", "专一"], "weaknesses": ["风险高度集中", "备选方案不足"], "advice": "主攻方向保留，同时准备 Plan B 岗位线", "tagline": "专一是好事，但给自己留条后路" },
+  "emo-recoverer": { "personaId": "emo-recoverer", "strengths": ["自我反思能力强", "对反馈敏感"], "weaknesses": ["一次失败就全盘否定", "恢复周期长"], "advice": "把拒信当数据点，每封拒信都是离 Offer 更近一步", "tagline": "面试是双向选择，不是对你的审判" },
+  "long-planner": { "personaId": "long-planner", "strengths": ["计划性强", "准备充分", "稳定推进"], "weaknesses": ["可能过度规划", "对变化适应慢"], "advice": "计划留 20% 弹性空间，应对突发变化", "tagline": "你的规划能力是超能力，但要允许计划被打乱" },
+  "resume-edit-loop": { "personaId": "resume-edit-loop", "strengths": ["追求完美", "注重细节"], "weaknesses": ["行动力极弱", "完美主义瘫痪"], "advice": "今天就用现有版本投 3 份，明天再改", "tagline": "你的简历已经够好了，现在立刻去投" },
+  "cross-field-rookie": { "personaId": "cross-field-rookie", "strengths": ["学习意愿强", "不给自己设限"], "weaknesses": ["方向不明", "基础薄弱"], "advice": "选定一个方向深耕 3 个月，再考虑扩展", "tagline": "迷茫是正常的，但不要停在原地迷茫" },
+  "written-test-king": { "personaId": "written-test-king", "strengths": ["笔试能力突出", "硬实力扎实"], "weaknesses": ["面试表达弱", "软实力不足"], "advice": "每天 15 分钟模拟面试录音，听回放改进", "tagline": "你已经证明了自己的硬实力，现在让面试官看到它" },
+  "offer-hesitator": { "personaId": "offer-hesitator", "strengths": ["竞争力强", "选择多"], "weaknesses": ["决策困难", "纠结拖延"], "advice": "列决策矩阵，设 DDL 做决定，不回复也是礼貌", "tagline": "幸福的烦恼也是烦恼，勇敢做选择吧" }
+}

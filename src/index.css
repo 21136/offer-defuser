@@ -1,0 +1,65 @@
+@import 'tailwindcss';
+
+/* === Design tokens === */
+@theme {
+  --font-sans: 'SF Pro Text', -apple-system, 'Microsoft YaHei', sans-serif;
+  --font-mono: 'Cascadia Code', 'Consolas', 'Microsoft YaHei UI', monospace;
+
+  /* Brand colors */
+  --color-primary: #2563eb;       /* blue-600 — 主按钮/链接 */
+  --color-primary-light: #3b82f6; /* blue-500 — hover 态 */
+  --color-secondary: #16a34a;     /* green-600 — 拆解器/CTA */
+  --color-accent: #f59e0b;        /* amber-500 — 强调/警告 */
+
+  /* Surface colors */
+  --color-surface: #ffffff;
+  --color-surface-alt: #f9fafb;   /* gray-50 — 页面背景 */
+  --color-border: #e5e7eb;        /* gray-200 — 边框 */
+
+  /* Text colors */
+  --color-text: #111827;          /* gray-900 — 正文 */
+  --color-text-muted: #6b7280;    /* gray-500 — 辅助文字 */
+}
+
+/* Dark mode — detect OS preference for initial paint (no JS needed) */
+@media (prefers-color-scheme: dark) {
+  :root:not(.light) {
+    --color-surface: #1f2937;
+    --color-surface-alt: #111827;
+    --color-border: #374151;
+    --color-text: #f9fafb;
+    --color-text-muted: #9ca3af;
+  }
+}
+
+/* Dark mode overrides (JS-driven .dark class, takes precedence) */
+.dark {
+  --color-surface: #1f2937;       /* gray-800 */
+  --color-surface-alt: #111827;   /* gray-900 */
+  --color-border: #374151;        /* gray-700 */
+  --color-text: #f9fafb;          /* gray-50 */
+  --color-text-muted: #9ca3af;    /* gray-400 */
+}
+
+/* === Base styles === */
+html {
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  min-height: 100dvh;
+}
+
+/* Respect user motion preferences */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

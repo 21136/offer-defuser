@@ -1,0 +1,17 @@
+{
+  "envId": "my-dev-env-d5gmbgs48b69f67ba",
+  "framework": {
+    "name": "offer-defuser",
+    "plugins": {
+      "client": {
+        "use": "@cloudbase/framework-plugin-website",
+        "inputs": {
+          "outputPath": "dist",
+          "cloudPath": "/",
+          "envVariables": {},
+          "spa": true
+        }
+      }
+    }
+  }
+}

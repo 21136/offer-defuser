@@ -1,0 +1,4389 @@
+{
+  "category": "state-owned",
+  "personas": {
+    "mass-applyer": [
+      {
+        "position": 1,
+        "title": "搞清门槛",
+        "options": [
+          {
+            "text": "打开{{jobName}}的招聘公告，圈出【专业要求】和【学历门槛】，其他看缘分",
+            "weight": 10
+          },
+          {
+            "text": "不需要研究太细，知道{{jobName}}要考行测还是专业知识就够",
+            "weight": 9
+          },
+          {
+            "text": "花5分钟给{{jobName}}打个分：离家距离、薪资范围、稳定程度，过线就准备",
+            "weight": 8
+          },
+          {
+            "text": "问问上届考进类似单位的学长学姐怎么看{{jobName}}，比自己研究快10倍",
+            "weight": 7
+          },
+          {
+            "text": "打开{{jobName}}的报名页面就算完成了第一步，明天再填也行",
+            "weight": 5
+          },
+          {
+            "text": "花1分钟决定要不要报{{jobName}}，超过1分钟就是在内耗",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，研究国央企招聘的正确姿势：Ctrl+F搜「专业要求」四个字，其他看心情",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "title": "改简历",
+        "options": [
+          {
+            "text": "把简历上跟{{jobName}}最相关的3个关键词加粗，政治面貌写清楚，5分钟搞定",
+            "weight": 10
+          },
+          {
+            "text": "不用大改，把{{jobName}}的名字写在简历目标栏，匹配度直接+20%",
+            "weight": 9
+          },
+          {
+            "text": "打开{{jobName}}的公告另开一个窗口，对着要求把简历的关键词对齐",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，找个人帮你扫一眼简历，外人3秒看出的问题你自己3天看不出来",
+            "weight": 7
+          },
+          {
+            "text": "复制上一份简历，文件名改成\"{{jobName}}版\"，完成了80%",
+            "weight": 5
+          },
+          {
+            "text": "{{personaName}}，简历别写太多，HR看15秒就决定了——给你的简历做个\"15秒测试\"",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，你的简历和{{jobName}}的匹配度不重要——重要的是你报了",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "title": "去投递",
+        "options": [
+          {
+            "text": "打开{{jobName}}的报名入口，材料拖进去，点提交——完事",
+            "weight": 10
+          },
+          {
+            "text": "一口气把{{jobName}}和同系统的3个岗位全报了，报名量=机会量",
+            "weight": 9
+          },
+          {
+            "text": "{{jobName}}的报名截止还有{{daysLeft}}天，今天报完就去刷行测题",
+            "weight": 8
+          },
+          {
+            "text": "今天的目标：报掉{{jobName}}和其他2个单位，凑够3个今天的任务就完成",
+            "weight": 7
+          },
+          {
+            "text": "把{{jobName}}的报名链接存桌面，看到了就顺手报",
+            "weight": 5
+          },
+          {
+            "text": "今天不报{{jobName}}的话，明天你可能就忘了这个岗位的存在",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，报{{jobName}}就像撒网——网撒出去之前你永远不知道能捞到什么",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 4,
+        "title": "行测/申论准备",
+        "options": [
+          {
+            "text": "{{jobName}}笔试就考行测+申论，去粉笔App刷5套真题找感觉",
+            "weight": 10
+          },
+          {
+            "text": "{{personaName}}，打开粉笔App，选国考真题随便刷几题——错了也无所谓",
+            "weight": 9
+          },
+          {
+            "text": "花30分钟刷粉笔上{{jobName}}方向的5组专项练习——一组10题",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，去粉笔圈子找一个国企备考小组，看看别人怎么准备的",
+            "weight": 7
+          },
+          {
+            "text": "{{personaName}}，手机上装粉笔App，通勤时刷两道行测",
+            "weight": 5
+          },
+          {
+            "text": "{{personaName}}，打开粉笔App随便刷几题——找找感觉就行，不用对答案",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，行测就像刮彩票——刷得够多总能中的",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 5,
+        "title": "结构化面试准备",
+        "options": [
+          {
+            "text": "准备2个最能体现你综合素质的例子，{{jobName}}结构化面试够用了",
+            "weight": 10
+          },
+          {
+            "text": "结构化面试就是聊天——聊你的经历和想法，{{jobName}}的考官也想听故事",
+            "weight": 9
+          },
+          {
+            "text": "{{personaName}}，结构化面试六大题型：综合分析、应急应变、人际关系、组织协调、自我认知、岗位匹配",
+            "weight": 8
+          },
+          {
+            "text": "找个人模拟{{jobName}}结构化面试，让他随便问——你随便答，就当练习",
+            "weight": 7
+          },
+          {
+            "text": "去应届生论坛搜{{jobName}}的面经，看3篇就够——看多了反而乱",
+            "weight": 5
+          },
+          {
+            "text": "面{{jobName}}前看看他们单位的官网，知道他们是做什么的就够了",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，面{{jobName}}就像相亲——做自己，合不合适是双向的",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 6,
+        "title": "群面模拟",
+        "options": [
+          {
+            "text": "找3个朋友模拟{{jobName}}的无领导讨论——随便一个话题，练30分钟",
+            "weight": 10
+          },
+          {
+            "text": "发声！在{{jobName}}群面中你至少要发3次言——内容其次，态度重要",
+            "weight": 9
+          },
+          {
+            "text": "群面三要素：观点清晰、尊重他人、推动讨论——{{jobName}}考官就看这三点",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，用微信语音给自己发一段模拟群面观点——回放发现不足",
+            "weight": 7
+          },
+          {
+            "text": "{{personaName}}，花5分钟站直对着空气发表一段观点——比你想的有效100倍",
+            "weight": 5
+          },
+          {
+            "text": "把{{jobName}}可能的群面话题写便利贴上，抽一张即兴发言——刺激",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，群面就是过家家——演一个善于合作的人，演着演着就成真了",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 7,
+        "title": "跟进复盘",
+        "options": [
+          {
+            "text": "报完{{jobName}}就该干嘛干嘛——国央企审核周期长，别天天刷状态",
+            "weight": 10
+          },
+          {
+            "text": "{{jobName}}没回复就备考下一个——国央企求职是持久战",
+            "weight": 9
+          },
+          {
+            "text": "关注{{jobName}}单位的公众号——笔试面试通知往往比系统更新快",
+            "weight": 8
+          },
+          {
+            "text": "把{{jobName}}的报名截图做个纪念——不管结果你行动了",
+            "weight": 7
+          },
+          {
+            "text": "{{jobName}}没回就报下一个——国央企上岸靠的是覆盖量",
+            "weight": 5
+          },
+          {
+            "text": "{{jobName}}杳无音信就下一个——拜拜就拜拜，下一个更香",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，把{{jobName}}忘了吧——下一个更香，国央企多的是",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 8,
+        "title": "心态复位",
+        "options": [
+          {
+            "text": "完成以上7步，给自己加个鸡腿——{{jobName}}只是你撒的网之一，心态放平",
+            "weight": 10
+          },
+          {
+            "text": "来跟我念：{{jobName}}只是大海里的一条鱼，这条没上钩还有下一网",
+            "weight": 9
+          },
+          {
+            "text": "今天报了{{jobName}}和其他几个单位？数一下报名数量，给自己打个分",
+            "weight": 8
+          },
+          {
+            "text": "{{jobName}}只是你求职生涯一个逗号——后面还有整篇文章要写",
+            "weight": 7
+          },
+          {
+            "text": "今天的报名成就：{{jobName}}。明天目标是：另一个单位。周而复始，直到上岸",
+            "weight": 5
+          },
+          {
+            "text": "如果{{jobName}}没回音——恭喜，排除了不合适的选项，省了后面好多流程",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，如果{{jobName}}是条鱼，你就是整片大海——国央企几千家，鱼有的是",
+            "weight": 2
+          }
+        ]
+      }
+    ],
+    "resume-anxious": [
+      {
+        "position": 1,
+        "title": "搞清门槛",
+        "options": [
+          {
+            "text": "把{{jobName}}的硬性条件列出来，你不用全满足——满足70%就可以冲",
+            "weight": 10
+          },
+          {
+            "text": "你已经具备{{jobName}}要求的核心能力——大学四年不会白读",
+            "weight": 9
+          },
+          {
+            "text": "把{{jobName}}的要求分三栏：已满足、学习后可满足、硬伤——你会发现第一栏不短",
+            "weight": 8
+          },
+          {
+            "text": "大部分报名{{jobName}}的人也只满足60-70%的条件，你并不差",
+            "weight": 7
+          },
+          {
+            "text": "今天就做一件事：把{{jobName}}的报名材料清单列出来",
+            "weight": 5
+          },
+          {
+            "text": "{{jobName}}可能不是你最理想的，但作为保底选项非常合适",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，公告不是圣旨——是HR写的愿望清单，愿望嘛，不一定要全实现",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "title": "改简历",
+        "options": [
+          {
+            "text": "你的简历比你以为的好，针对{{jobName}}微调2处就够了：加上政治面貌和学生干部经历",
+            "weight": 10
+          },
+          {
+            "text": "你的经历里一定有和{{jobName}}沾边的——学生工作、志愿活动、党员活动都算",
+            "weight": 9
+          },
+          {
+            "text": "拿荧光笔标出简历里和{{jobName}}匹配的内容——标出来的部分比你想象的多",
+            "weight": 8
+          },
+          {
+            "text": "把简历发给一个信任的人，问\"如果你是{{jobName}}的HR你会给我笔试机会吗\"",
+            "weight": 7
+          },
+          {
+            "text": "{{personaName}}，简历不用完美——你报名过程中会自然迭代",
+            "weight": 5
+          },
+          {
+            "text": "{{personaName}}，你的简历给别人看时他们说了什么？那些就是你真实的长处",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，你的简历比你焦虑时看起来强100倍，信我",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "title": "去投递",
+        "options": [
+          {
+            "text": "今天把{{jobName}}报上——报完你就从\"观望\"变成\"备战\"了",
+            "weight": 10
+          },
+          {
+            "text": "报{{jobName}}之前不要反复检查材料——你第一次检查就对了",
+            "weight": 9
+          },
+          {
+            "text": "打开{{jobName}}的报名页面——你会发现填信息比想象中简单",
+            "weight": 8
+          },
+          {
+            "text": "报{{jobName}}前告诉自己：资格审查没通过也不是对你的否定",
+            "weight": 7
+          },
+          {
+            "text": "先别想结果，把{{jobName}}报出去这个动作本身就是胜利",
+            "weight": 5
+          },
+          {
+            "text": "如果不报{{jobName}}，你永远不知道结果——而不知道比没通过更内耗",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，你是简历焦虑不是报名焦虑——提交那一刻焦虑就结束了",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 4,
+        "title": "行测/申论准备",
+        "options": [
+          {
+            "text": "别怕{{jobName}}的笔试，行测题都有套路——言语和判断你每天都在用",
+            "weight": 10
+          },
+          {
+            "text": "你已经学过行测思维了，{{jobName}}的笔试不会比公考更难",
+            "weight": 9
+          },
+          {
+            "text": "{{personaName}}，把你做过的真题拿出来回顾错题——你比想象中准备得更充分",
+            "weight": 8
+          },
+          {
+            "text": "找一套{{jobName}}的模拟题，不限时、不评分地做一遍——就当闯关",
+            "weight": 7
+          },
+          {
+            "text": "你学过的每一种题型都是准备——{{jobName}}只是另一套题",
+            "weight": 5
+          },
+          {
+            "text": "准备{{jobName}}笔试最好的方法：假装你在教一个不会的人做行测",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，笔试不要你考100分——60分就进面，跟驾照科目一一样",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 5,
+        "title": "结构化面试准备",
+        "options": [
+          {
+            "text": "别怕{{jobName}}的结构化面试，考官想看到一个真实的你——不是完美的你",
+            "weight": 10
+          },
+          {
+            "text": "把{{jobName}}的面试想象成给一个长辈讲你最近在忙什么——自然就好",
+            "weight": 9
+          },
+          {
+            "text": "把{{jobName}}面试可能问的5个高频题写纸上，每道题想1个关键词回答",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，找一个人听你讲一遍自我介绍——对方的反应会让你发现你讲得很好",
+            "weight": 7
+          },
+          {
+            "text": "把{{jobName}}的面试当成一次分享——你每天都在和人交流，这次也一样",
+            "weight": 5
+          },
+          {
+            "text": "去面试{{jobName}}的路上听一首让你自信的歌——状态决定表现",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，{{jobName}}的考官不是你的老师——是成年人之间的一次专业交流",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 6,
+        "title": "群面模拟",
+        "options": [
+          {
+            "text": "群面没那么可怕——{{jobName}}的考官看的是你的团队协作，不是你的口才",
+            "weight": 10
+          },
+          {
+            "text": "{{personaName}}，录一段你模拟群面发言的语音，睡前听一遍——你会觉得这人还行",
+            "weight": 9
+          },
+          {
+            "text": "每天花5分钟对着一个话题发表观点——坚持到{{jobName}}群面那天",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，出声读一遍你整理的群面发言要点——读出声，不要默看",
+            "weight": 7
+          },
+          {
+            "text": "{{personaName}}，把你的核心观点写在便利贴上——然后不看便利贴讲一遍",
+            "weight": 5
+          },
+          {
+            "text": "{{personaName}}，今天只练一个话题：你最近关注的一个社会热点——其他明天",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，模拟群面的你会比真群面更紧张——所以正式时反而轻松",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 7,
+        "title": "跟进复盘",
+        "options": [
+          {
+            "text": "报完{{jobName}}别反复刷报名系统——把刷新的时间用来刷行测题",
+            "weight": 10
+          },
+          {
+            "text": "做一个小表格记录{{jobName}}的申请进度——\"已报名\"的可视化减轻焦虑",
+            "weight": 9
+          },
+          {
+            "text": "每天Check一次{{jobName}}的状态——多了是内耗，少了是失控",
+            "weight": 8
+          },
+          {
+            "text": "报了{{jobName}}就是胜利——多报几个单位，让{{jobName}}不再是你唯一希望",
+            "weight": 7
+          },
+          {
+            "text": "如果{{jobName}}没消息——再报3个类似的单位，机会翻倍焦虑减半",
+            "weight": 5
+          },
+          {
+            "text": "不要幻想{{jobName}}的人事正在认真考虑你——他们可能只是还没排到",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，不回复不是否定——人事处可能有一千份材料要看",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 8,
+        "title": "心态复位",
+        "options": [
+          {
+            "text": "你已经为{{jobName}}做了足够多的准备，现在关掉书去散个步——你值得休息",
+            "weight": 10
+          },
+          {
+            "text": "你已经比{{daysLeft}}天前的自己更了解国央企招聘了——这就是成长",
+            "weight": 9
+          },
+          {
+            "text": "写下今天为{{jobName}}做的3件事——写出来你会发现比想象的多",
+            "weight": 8
+          },
+          {
+            "text": "你知道吗，你为{{jobName}}做的一切，换做一个月前的你根本不敢想",
+            "weight": 7
+          },
+          {
+            "text": "你为{{jobName}}跨出的每一步都是勇气的证明——尤其是报名那一步",
+            "weight": 5
+          },
+          {
+            "text": "最差的情况？{{jobName}}没通知。最好的情况？你笔试过了。两种你都能承受",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，你的焦虑是因为你在乎——而在乎的人最终都会有好结果",
+            "weight": 2
+          }
+        ]
+      }
+    ],
+    "jd-perfectionist": [
+      {
+        "position": 1,
+        "title": "搞清门槛",
+        "options": [
+          {
+            "text": "打开{{jobName}}的招聘公告，逐条对照硬性条件：专业、学历、政治面貌、四六级",
+            "weight": 10
+          },
+          {
+            "text": "{{personaName}}，国央企公告上的「优先考虑」不是必须，你不需要每条都满",
+            "weight": 9
+          },
+          {
+            "text": "给{{jobName}}的每条要求打匹配分（1-5），平均3分就可以报名",
+            "weight": 8
+          },
+          {
+            "text": "翻翻{{jobName}}单位官网的新闻，了解他们的业务重点和文化",
+            "weight": 7
+          },
+          {
+            "text": "只看{{jobName}}的「招聘岗位」表格那一段，其他先不管",
+            "weight": 5
+          },
+          {
+            "text": "如果{{jobName}}每条你都满足，说明这个岗位配不上你——你应该往上报",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，国央企公告写了10条要求，面试官自己可能只记得3条",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "title": "改简历",
+        "options": [
+          {
+            "text": "对照{{jobName}}的要求，把简历里的关键词对齐——只改措辞，不改内容",
+            "weight": 10
+          },
+          {
+            "text": "简历不是自传，是{{jobName}}的匹配报告——写他们想看的",
+            "weight": 9
+          },
+          {
+            "text": "把{{jobName}}的要求和简历做逐行对照，匹配项用荧光笔标记",
+            "weight": 8
+          },
+          {
+            "text": "找一篇{{jobName}}单位的面经，看面试官问了什么，倒推简历该突出什么",
+            "weight": 7
+          },
+          {
+            "text": "{{personaName}}，如果你已经改了超过30分钟，停下来，用当前版本",
+            "weight": 5
+          },
+          {
+            "text": "一份好的简历不是\"我最优秀\"而是\"我最适合{{jobName}}\"——改成后者",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，完美简历不存在——{{jobName}}的人事处长当年简历也有硬伤",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "title": "去投递",
+        "options": [
+          {
+            "text": "核对{{jobName}}的报名材料：身份证、学历证、报名表、照片——缺一不可",
+            "weight": 10
+          },
+          {
+            "text": "确认{{jobName}}的材料清单齐全了——报名表+证件照+证书扫描件——然后提交",
+            "weight": 9
+          },
+          {
+            "text": "{{jobName}}的报名材料checklist：报名表（必填）+ 证件照+ 证书扫描件",
+            "weight": 8
+          },
+          {
+            "text": "找个人一起报——你报{{jobName}}，他报他的，互相监督就不纠结",
+            "weight": 7
+          },
+          {
+            "text": "如果你在纠结用哪个邮箱报{{jobName}}——用最常用的那个就行",
+            "weight": 5
+          },
+          {
+            "text": "报{{jobName}}前先回答：如果不报，你会后悔吗？",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，最佳的报名时机=现在。最佳的报名状态=差不多就行",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 4,
+        "title": "行测/申论准备",
+        "options": [
+          {
+            "text": "按{{jobName}}笔试科目分配时间：行测60%+申论30%+专业知识10%",
+            "weight": 10
+          },
+          {
+            "text": "行测+申论+公基三大块各刷5题——{{jobName}}笔试覆盖面就这么宽",
+            "weight": 9
+          },
+          {
+            "text": "按{{jobName}}笔试权重分配：60%行测，30%申论，10%公基",
+            "weight": 8
+          },
+          {
+            "text": "去小红书搜{{jobName}}单位的笔试经验帖，记录高频考点",
+            "weight": 7
+          },
+          {
+            "text": "把{{jobName}}笔试最可能的5个考点列出来，搞定一个划一个",
+            "weight": 5
+          },
+          {
+            "text": "用番茄钟：25分钟专注{{jobName}}笔试的一个模块，然后停",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，行测60分就进面——你不需要满分",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 5,
+        "title": "结构化面试准备",
+        "options": [
+          {
+            "text": "按结构化面试六大题型分类准备：综合分析、应急应变、组织协调是{{jobName}}最常考的",
+            "weight": 10
+          },
+          {
+            "text": "整理一个\"问题-分析-对策\"的作答模板，适配{{jobName}}结构化面试",
+            "weight": 9
+          },
+          {
+            "text": "按{{jobName}}的招聘公告倒推面试问题：每条要求准备一个\"我如何满足\"的实例",
+            "weight": 8
+          },
+          {
+            "text": "录一段你回答\"为什么选择{{jobName}}\"的音频，听回放——你会发现比想象的好",
+            "weight": 7
+          },
+          {
+            "text": "选择{{jobName}}面试中最可能被问的1个综合分析题和1个自我认知题——只准备这2个",
+            "weight": 5
+          },
+          {
+            "text": "准备{{jobName}}面试时别陷入\"如果被问到X我该怎么说\"的无限联想",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，结构化面试不是背模板——是让人看到模板之外的你",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 6,
+        "title": "群面模拟",
+        "options": [
+          {
+            "text": "准备{{jobName}}群面中可能扮演的3个角色：leader、timer、记录员——每个都练一遍",
+            "weight": 10
+          },
+          {
+            "text": "用计时器模拟{{jobName}}群面节奏——每人发言控制2分钟",
+            "weight": 9
+          },
+          {
+            "text": "{{personaName}}，录音模拟群面发言，逐句分析：逻辑清晰吗？有无效口头禅吗？",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，检查录音中的语速——群面最佳语速是每分钟180-200字",
+            "weight": 7
+          },
+          {
+            "text": "今天只练一个场景：{{jobName}}群面中最怕被问到的话题",
+            "weight": 5
+          },
+          {
+            "text": "{{personaName}}，群面模拟时说到一半觉得不好——不要停下来重说，继续说完",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，你的群面模拟可能做了50遍——但正式群面不允许NG",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 7,
+        "title": "跟进复盘",
+        "options": [
+          {
+            "text": "整理{{jobName}}的时间线：报名→资格审查→笔试→面试→体检→政审→公示→签约",
+            "weight": 10
+          },
+          {
+            "text": "记录{{jobName}}的每个节点：报名日期、笔试通知日期、成绩公布日期",
+            "weight": 9
+          },
+          {
+            "text": "{{personaName}}，准备一个状态追踪表：报名→资格审核→笔试→面试→体检→政审→公示",
+            "weight": 8
+          },
+          {
+            "text": "如果{{jobName}}超过公告上的时间还没通知——可能是整个流程延迟了",
+            "weight": 7
+          },
+          {
+            "text": "记录{{jobName}}的时间线：报名日→预计通知日→实际通知日——用数据代替情绪",
+            "weight": 5
+          },
+          {
+            "text": "分析{{jobName}}的报录比——有些岗位竞争比你想的激烈，不中是常态",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，你为{{jobName}}做的追踪表格比大多数人正式简历还详细",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 8,
+        "title": "心态复位",
+        "options": [
+          {
+            "text": "{{jobName}}的准备到这里就够了——国央企备考80分已经很好了",
+            "weight": 10
+          },
+          {
+            "text": "关掉{{jobName}}所有相关页面——你的大脑需要清空才能做出更好判断",
+            "weight": 9
+          },
+          {
+            "text": "回顾{{jobName}}准备全过程：你花了多少时间？哪些步骤可以更快？——但今天先别优化",
+            "weight": 8
+          },
+          {
+            "text": "你为{{jobName}}设的标准可能比人事期待还高——试着放过自己",
+            "weight": 7
+          },
+          {
+            "text": "把对{{jobName}}的高标准转化为对自己的认可——你已经做得很好",
+            "weight": 5
+          },
+          {
+            "text": "{{jobName}}可能不是你的完美匹配——但你的准备让你更接近那个完美匹配",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，80%准备+20%运气=100%上岸——你已备齐前80%",
+            "weight": 2
+          }
+        ]
+      }
+    ],
+    "ddl-sprinter": [
+      {
+        "position": 1,
+        "title": "搞清门槛",
+        "options": [
+          {
+            "text": "现在！打开{{jobName}}的公告页，只扫一眼关键信息：报名截止、笔试时间",
+            "weight": 10
+          },
+          {
+            "text": "{{jobName}}的公告别精读！先看报名方式和截止时间，剩下的后面再补",
+            "weight": 9
+          },
+          {
+            "text": "{{daysLeft}}天倒计时！今天只做一件事——整理{{jobName}}需要的全部报名材料",
+            "weight": 8
+          },
+          {
+            "text": "别自己琢磨了，加一个{{jobName}}的备考群，大家的信息比你一个人收集的快",
+            "weight": 7
+          },
+          {
+            "text": "把{{jobName}}的报名截止日期记到手机日历，设提前两天的提醒",
+            "weight": 5
+          },
+          {
+            "text": "如果{{jobName}}明天截止，你现在要做的就是打开报名系统填表",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，别在研究公告上花{{daysLeft}}天——你只有{{daysLeft}}天了！",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "title": "改简历",
+        "options": [
+          {
+            "text": "现在打开简历！把{{jobName}}相关的学生工作和获奖经历提到最前面",
+            "weight": 10
+          },
+          {
+            "text": "{{personaName}}，先改第一屏——个人信息+政治面貌+学历，那是HR最先看的",
+            "weight": 9
+          },
+          {
+            "text": "简历顶部写\"应聘{{jobName}}\"，整份简历不用大动",
+            "weight": 8
+          },
+          {
+            "text": "别自己改！把简历和{{jobName}}的要求一起发给朋友，取第一条建议",
+            "weight": 7
+          },
+          {
+            "text": "{{personaName}}，简历改完第一页就能报名——第二页HR基本不看",
+            "weight": 5
+          },
+          {
+            "text": "{{personaName}}，考虑用超级简历/WPS模板一键套用，5分钟搞定格式",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，改简历最快的方法：把{{jobName}}的公告当checklist逐条对",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "title": "去投递",
+        "options": [
+          {
+            "text": "现在！把{{jobName}}报了！国央企报名系统经常崩，别等到最后一天",
+            "weight": 10
+          },
+          {
+            "text": "别管是不是最佳时机，{{jobName}}现在开放报名就现在报",
+            "weight": 9
+          },
+          {
+            "text": "花3分钟检查{{jobName}}的报名材料：照片尺寸对不对？证书扫描清楚没？",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，别等最佳时间了——现在就报，现在就是最佳时间",
+            "weight": 7
+          },
+          {
+            "text": "{{jobName}}的提交按钮就在那里，按一下又不会触电",
+            "weight": 5
+          },
+          {
+            "text": "{{jobName}}有没有\"一键报名\"？——有的话1分钟都别多花",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，别等\"准备好了\"，那和\"等死\"在求职里是同义词",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 4,
+        "title": "行测/申论准备",
+        "options": [
+          {
+            "text": "今天刷3套行测真题的三大模块：言语、判断、资料分析——{{jobName}}必考",
+            "weight": 10
+          },
+          {
+            "text": "{{personaName}}，去B站搜\"行测资料分析速成\"，找个播放量最高的倍速看完",
+            "weight": 9
+          },
+          {
+            "text": "去粉笔/中公搜\"{{jobName}}单位 笔试真题\"，按时间排序看最近5篇",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，找个也在备考国企的同学互相出题——事半功倍",
+            "weight": 7
+          },
+          {
+            "text": "{{personaName}}，打开粉笔，随便做一套真题找手感——别管对错",
+            "weight": 5
+          },
+          {
+            "text": "如果{{jobName}}笔试就在明天——复习错题比学新内容重要3倍",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，用{{daysLeft}}天准备{{jobName}}笔试——够了，你的爆发力是平时10倍",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 5,
+        "title": "结构化面试准备",
+        "options": [
+          {
+            "text": "今天！准备{{jobName}}面试核心：一段2分钟的自我介绍+3个支撑案例",
+            "weight": 10
+          },
+          {
+            "text": "别写逐字稿！用bullet point记关键词，{{jobName}}面试时自然展开",
+            "weight": 9
+          },
+          {
+            "text": "今天完成{{jobName}}面试准备的3件事：自我介绍、核心案例、时政热点",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，现在就用手机录一段回答\"请自我介绍\"的音频，听一遍，再录一次",
+            "weight": 7
+          },
+          {
+            "text": "给{{jobName}}的面试准备设倒计时：还有{{daysLeft}}天，今天搞定自我介绍",
+            "weight": 5
+          },
+          {
+            "text": "{{jobName}}面试前夜：准备好衣服、路线、时间——然后打游戏放松",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，你DDL前的爆发力足以搞定{{jobName}}任何面试——相信你的肾上腺素",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 6,
+        "title": "群面模拟",
+        "options": [
+          {
+            "text": "今天！找几个人线上模拟{{jobName}}的群面——用腾讯会议就行",
+            "weight": 10
+          },
+          {
+            "text": "{{personaName}}，找一个人随机给话题，你即兴发表观点——训练群面的临场感",
+            "weight": 9
+          },
+          {
+            "text": "用{{daysLeft}}天每天练一种群面角色：今天leader、明天timer、后天记录员",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，把手机立在桌上，假装视频群面——习惯镜头会让你更自然",
+            "weight": 7
+          },
+          {
+            "text": "{{personaName}}，明早刷牙时对着镜子发表一个观点——每天一次就够",
+            "weight": 5
+          },
+          {
+            "text": "晚上躺床上闭眼想象一遍{{jobName}}的群面流程——大脑分不清想象和现实",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，把群面当成正式面试彩排——DDL压力让彩排效果翻倍",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 7,
+        "title": "跟进复盘",
+        "options": [
+          {
+            "text": "报完{{jobName}}第三天如果系统显示\"审核中\"——正常，别急",
+            "weight": 10
+          },
+          {
+            "text": "别等一个月！{{jobName}}报名后2周没消息主动看看公告更新",
+            "weight": 9
+          },
+          {
+            "text": "{{jobName}}报名超过一个月没笔试通知——正常的，继续备考",
+            "weight": 8
+          },
+          {
+            "text": "设一个\"不再想{{jobName}}\"的日期——到那天还没笔试通知就move on",
+            "weight": 7
+          },
+          {
+            "text": "{{jobName}}没消息超过预期时间——别再等了，继续冲下一个",
+            "weight": 5
+          },
+          {
+            "text": "在国聘网上看到{{jobName}}还在招同类岗——那就不用太担心",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，等通知比等DDL更煎熬——但你已习惯了在压力下工作",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 8,
+        "title": "心态复位",
+        "options": [
+          {
+            "text": "在{{jobName}}截止前完成了一切——现在打把游戏，你的大脑需要放电",
+            "weight": 10
+          },
+          {
+            "text": "任务完成！在日历上划掉{{jobName}}——没有比划掉待办更爽的",
+            "weight": 9
+          },
+          {
+            "text": "完成{{jobName}}的8步流程！你的执行效率依然在线——记录这次用时",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，压力释放时间！选一种你的解压方式——运动/游戏/追剧/睡觉",
+            "weight": 7
+          },
+          {
+            "text": "{{personaName}}，没到deadline就完成了——这就是进步！下次试试再提前一点",
+            "weight": 5
+          },
+          {
+            "text": "{{personaName}}，如果在DDL前完成所有步骤——恭喜，你证明了自己不需要DDL也能行动",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，你又一次在最后关头完成了——但想象一下如果不等到最后",
+            "weight": 2
+          }
+        ]
+      }
+    ],
+    "big-firm-only": [
+      {
+        "position": 1,
+        "title": "搞清门槛",
+        "options": [
+          {
+            "text": "{{jobName}}的招考公告对标你准备的目标，看看笔试科目有什么不同",
+            "weight": 10
+          },
+          {
+            "text": "{{jobName}}是否对学校层次（双一流/211）有要求？看清硬杠再投入",
+            "weight": 9
+          },
+          {
+            "text": "对标{{jobName}}的笔试和面试权重，建立备考时间分配表",
+            "weight": 8
+          },
+          {
+            "text": "问问在这个系统工作的人{{jobName}}单位的真实情况，公告写的和实际可能不同",
+            "weight": 7
+          },
+          {
+            "text": "在知乎/小红书搜一下{{jobName}}这个单位的评价，了解真实氛围",
+            "weight": 5
+          },
+          {
+            "text": "{{jobName}}不是唯一的体制内选择，但先把它当对标目标来准备",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，头部央企的公告往往最简略——实际进去才知道",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "title": "改简历",
+        "options": [
+          {
+            "text": "把你的简历往{{jobName}}的央企标准靠——突出组织能力和综合素质",
+            "weight": 10
+          },
+          {
+            "text": "把{{jobName}}单位的企业文化关键词埋到你的自我评价里",
+            "weight": 9
+          },
+          {
+            "text": "用STAR法则改写学生干部经历——{{jobName}}面试官喜欢听结构化故事",
+            "weight": 8
+          },
+          {
+            "text": "看看{{jobName}}单位官网的\"员工风采\"，用类似的语言写自我评价",
+            "weight": 7
+          },
+          {
+            "text": "简历里用{{jobName}}单位的价值观关键词（去官网找），HR吃这套",
+            "weight": 5
+          },
+          {
+            "text": "想象你是{{jobName}}单位的人事处长——你会怎么看这份简历？",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，简历这种东西，央企HR其实看10秒——前3行定生死",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "title": "去投递",
+        "options": [
+          {
+            "text": "去{{jobName}}的官网/国资委招聘平台/国聘网，选最快的渠道提交",
+            "weight": 10
+          },
+          {
+            "text": "{{jobName}}如果有一企多投政策，每个子公司试一个——鸡蛋别放一个篮子",
+            "weight": 9
+          },
+          {
+            "text": "{{jobName}}报名的黄金时间：公告发布后3-7天，材料准备最充分",
+            "weight": 8
+          },
+          {
+            "text": "如果有认识的人在{{jobName}}单位，礼貌请教一下报名注意事项",
+            "weight": 7
+          },
+          {
+            "text": "央企报名系统有时很难用——{{jobName}}如果卡住了换个浏览器",
+            "weight": 5
+          },
+          {
+            "text": "{{jobName}}的报名系统如果要求填一堆——先填必填项，选填跳过",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，央企的报名系统再难用也要报——因为值得",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 4,
+        "title": "行测/申论准备",
+        "options": [
+          {
+            "text": "{{jobName}}的笔试对标省考难度，重点攻克资料分析和数量关系",
+            "weight": 10
+          },
+          {
+            "text": "{{jobName}}这种央企笔试可能有企业文化题——去官网把企业精神背下来",
+            "weight": 9
+          },
+          {
+            "text": "{{personaName}}，央企笔试行测有套路——资料分析题优先保证正确率",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，央企必考：时政热点+企业文化——这两个背了就是送分",
+            "weight": 7
+          },
+          {
+            "text": "{{jobName}}笔试前夜：别学新的，回顾错题本",
+            "weight": 5
+          },
+          {
+            "text": "{{personaName}}，央企笔试有时考很偏（时政/党史）——别慌，大家也不会",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，央企笔试通过率其实不低——敢去考就赢了",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 5,
+        "title": "结构化面试准备",
+        "options": [
+          {
+            "text": "{{jobName}}央企面试重点：政治素养+综合素质>专业深度",
+            "weight": 10
+          },
+          {
+            "text": "{{personaName}}，央企面试喜欢问\"你怎么看XX政策\"——准备近半年的时政热点",
+            "weight": 9
+          },
+          {
+            "text": "{{jobName}}央企可能有追问环节——准备好\"你还有什么要补充的\"的回答",
+            "weight": 8
+          },
+          {
+            "text": "找一个在国企工作的前辈mock一次面试——针对{{jobName}}问最刁钻的问题",
+            "weight": 7
+          },
+          {
+            "text": "央企的面试反馈可能1-2周——{{jobName}}面完了心态上就当已完成",
+            "weight": 5
+          },
+          {
+            "text": "如果{{jobName}}是央企面试，可能有好几轮——做好持久战准备",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，进央企面试就像打游戏通关——每一关都在练级",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 6,
+        "title": "群面模拟",
+        "options": [
+          {
+            "text": "{{jobName}}央企群面重点：大局观>细节控——发言要站在单位角度想问题",
+            "weight": 10
+          },
+          {
+            "text": "模拟{{jobName}}央企常见的群面题：分配有限资源/排序题——这是最常考的",
+            "weight": 9
+          },
+          {
+            "text": "对着镜子练表情管理——{{jobName}}群面考官会观察你的非语言信号",
+            "weight": 8
+          },
+          {
+            "text": "找一篇{{jobName}}单位的新闻，用自己的话复述——练时事分析",
+            "weight": 7
+          },
+          {
+            "text": "模拟{{jobName}}群面时注意坐姿——挺直腰让声音更有底气",
+            "weight": 5
+          },
+          {
+            "text": "{{personaName}}，如果有条件，找在国企工作的人模拟群面——真实度最高",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，央企群面就是大型圆桌会议——想象你已经是其中一员",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 7,
+        "title": "跟进复盘",
+        "options": [
+          {
+            "text": "{{jobName}}央企审核可能2-4周——期间继续备考其他单位",
+            "weight": 10
+          },
+          {
+            "text": "如果认识{{jobName}}系统的前辈，礼貌请教往年节奏——内部视角最有用",
+            "weight": 9
+          },
+          {
+            "text": "关注{{jobName}}单位的官方公众号和国资委招聘平台——它们会发通知",
+            "weight": 8
+          },
+          {
+            "text": "可以请教学长学姐{{jobName}}单位的招聘节奏——不同系统差别很大",
+            "weight": 7
+          },
+          {
+            "text": "央企的招聘节奏是玄学——{{jobName}}可能在走流程，也可能已内定",
+            "weight": 5
+          },
+          {
+            "text": "{{jobName}}这种央企，有时候需要点运气——你有能力，等风来",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，央企人事可能一个月后才打开你的材料——别把沉默当拒绝",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 8,
+        "title": "心态复位",
+        "options": [
+          {
+            "text": "{{jobName}}只是你体制内目标之一——完成准备后把注意力切回生活",
+            "weight": 10
+          },
+          {
+            "text": "你为{{jobName}}的准备会让你在类似单位申请中也受益——这不是孤注一掷",
+            "weight": 9
+          },
+          {
+            "text": "{{jobName}}只是你职业生涯中的一站——把眼光放远，今天的报名影响不了大局",
+            "weight": 8
+          },
+          {
+            "text": "{{jobName}}如果没成，不代表体制内梦碎——国央企有几千家，你才报了一家",
+            "weight": 7
+          },
+          {
+            "text": "{{jobName}}是目标但不是唯一目标——你的能力配得上很多好单位",
+            "weight": 5
+          },
+          {
+            "text": "{{jobName}}不是唯一的体制内选择——把它当热身，真正的比赛在后面",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，体制内梦可以慢慢追——你从今天报的{{jobName}}开始",
+            "weight": 2
+          }
+        ]
+      }
+    ],
+    "broad-net": [
+      {
+        "position": 1,
+        "title": "搞清门槛",
+        "options": [
+          {
+            "text": "大概扫一眼{{jobName}}的要求，国央企门槛都差不多，不用逐字研究",
+            "weight": 10
+          },
+          {
+            "text": "国企公告都差不多，{{jobName}}和其他的大同小异，不用每个都仔细研究",
+            "weight": 9
+          },
+          {
+            "text": "看一遍{{jobName}}，确认没有硬伤（比如户籍限制），没有就准备",
+            "weight": 8
+          },
+          {
+            "text": "类似的国央企岗位很多，{{jobName}}只是其中之一，不用紧张",
+            "weight": 7
+          },
+          {
+            "text": "手机截个{{jobName}}的报名入口页面就算第一步完成了",
+            "weight": 5
+          },
+          {
+            "text": "{{jobName}}不是你唯一的机会——国央企考试多得很，随便报",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，看完国央企公告不焦虑算你赢——但焦虑完记得报名",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "title": "改简历",
+        "options": [
+          {
+            "text": "简历标题改成\"应聘{{jobName}}\"，改一个字也算改，别纠结",
+            "weight": 10
+          },
+          {
+            "text": "另存为新文件，文件名\"{{jobName}}版\"，心理上就改完了",
+            "weight": 9
+          },
+          {
+            "text": "技能栏的关键词改成{{jobName}}公告里的说法，哪怕意思一样",
+            "weight": 8
+          },
+          {
+            "text": "参考已上岸类似{{jobName}}岗位的人的简历格式，但别抄内容",
+            "weight": 7
+          },
+          {
+            "text": "{{personaName}}，不知道改什么就加一句\"愿意长期在XX行业发展\"，有时候就够了",
+            "weight": 5
+          },
+          {
+            "text": "{{personaName}}，简历用在线工具生成好看的版本，有时候颜值就是正义",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，改简历的最高境界：改到你自己都忘了改过哪里",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "title": "去投递",
+        "options": [
+          {
+            "text": "把{{jobName}}报了，顺便看看同一系统的其他岗位——多报几个",
+            "weight": 10
+          },
+          {
+            "text": "国聘网上搜一下{{jobName}}，可能有更简单的投递入口",
+            "weight": 9
+          },
+          {
+            "text": "在国聘网/智联/前程无忧都搜一下，{{jobName}}可能在多个平台同步招聘",
+            "weight": 8
+          },
+          {
+            "text": "手机也能报国聘网——{{jobName}}如果在国聘上就APP一键投递",
+            "weight": 7
+          },
+          {
+            "text": "{{personaName}}，报名时选择\"服从调剂\"——报国央企多一个机会",
+            "weight": 5
+          },
+          {
+            "text": "花5分钟在多个平台搜一下{{jobName}}，说不定有更简单的报名入口",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，报名是一种行为艺术——报得越多，上岸概率越大",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 4,
+        "title": "行测/申论准备",
+        "options": [
+          {
+            "text": "{{jobName}}笔试大概率考行测，下载粉笔App随便刷几题就行",
+            "weight": 10
+          },
+          {
+            "text": "{{personaName}}，去B站搜\"国企笔试经验\"，找个最新的看完就有方向",
+            "weight": 9
+          },
+          {
+            "text": "{{personaName}}，在粉笔随便找一套国企笔试题做一遍，感受节奏",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，在抖音/小红书搜\"国企笔试\"，吃饭时刷几条",
+            "weight": 7
+          },
+          {
+            "text": "把{{jobName}}笔试当成一次免费的行测模拟考，反正不花钱",
+            "weight": 5
+          },
+          {
+            "text": "考前吃顿好的——{{jobName}}的笔试发挥和血糖水平正相关",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，笔试能蒙就蒙，蒙完看解析——下次就会了",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 5,
+        "title": "结构化面试准备",
+        "options": [
+          {
+            "text": "{{jobName}}面试准备不用背稿——想清楚你的优势和对岗位的理解就够了",
+            "weight": 10
+          },
+          {
+            "text": "准备{{jobName}}面试的方式：打开语音备忘录，自己讲一遍自我介绍",
+            "weight": 9
+          },
+          {
+            "text": "去应届生论坛搜{{jobName}}单位的面经，看最近被问到最多的问题",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，在B站找一个结构化面试模拟视频，看看别人怎么应对的",
+            "weight": 7
+          },
+          {
+            "text": "{{jobName}}面试前看看他们单位的官网和最近动态——面试中提到会很加分",
+            "weight": 5
+          },
+          {
+            "text": "{{personaName}}，穿让自己舒服的衣服——体制内面试也看精神面貌",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，面试就是聊天——聊high了offer就来了",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 6,
+        "title": "群面模拟",
+        "options": [
+          {
+            "text": "{{personaName}}，随便拉几个也在备考的朋友，线上练一次群面——就当玩狼人杀",
+            "weight": 10
+          },
+          {
+            "text": "{{personaName}}，在B站找一个无领导面试视频，跟着面试者的思路一起思考",
+            "weight": 9
+          },
+          {
+            "text": "{{personaName}}，和朋友互相模拟群面——你当timer他当leader，轮流练",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，下载一个AI面试练习App，回答几道群面题找感觉",
+            "weight": 7
+          },
+          {
+            "text": "{{personaName}}，吃饭时让朋友随便给个话题——就当饭桌聊天",
+            "weight": 5
+          },
+          {
+            "text": "睡前花3分钟想象正在面{{jobName}}——这种心理预演已被证明有效",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，群面无聊就对了——正式群面应该也是这种感觉",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 7,
+        "title": "跟进复盘",
+        "options": [
+          {
+            "text": "报完{{jobName}}就别管了——继续撒网，国央企考试多得很",
+            "weight": 10
+          },
+          {
+            "text": "{{personaName}}，报完就不想了——接着备考，命运的齿轮会自己转",
+            "weight": 9
+          },
+          {
+            "text": "加一个备考群，大家会互相提醒{{jobName}}这类单位的通知",
+            "weight": 8
+          },
+          {
+            "text": "在备考群里问问大家{{jobName}}的进度——信息共享减轻焦虑",
+            "weight": 7
+          },
+          {
+            "text": "忘了{{jobName}}吧——最好的跟进就是不跟进，报下一个",
+            "weight": 5
+          },
+          {
+            "text": "{{jobName}}没回也许是好事——说明这个单位效率低，不去也罢",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，广撒网的代价就是有些网会空——但总有一网有鱼",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 8,
+        "title": "心态复位",
+        "options": [
+          {
+            "text": "报完{{jobName}}就放下——命运帮你安排了什么到时候就知道了，先吃顿好的",
+            "weight": 10
+          },
+          {
+            "text": "{{personaName}}，做完这些你就是考编特种兵了——继续下一个或者休息随你",
+            "weight": 9
+          },
+          {
+            "text": "{{personaName}}，给自己一个小小的庆祝——比如点一份一直想吃的甜品",
+            "weight": 8
+          },
+          {
+            "text": "今天的收获：你离上岸又近了一步——可能是{{jobName}}的，也可能是下一个的",
+            "weight": 7
+          },
+          {
+            "text": "今天撒的网里{{jobName}}是其中一个大鱼塘——收回来可能是惊喜",
+            "weight": 5
+          },
+          {
+            "text": "{{jobName}}只是你求职路上一站——下一站可能会更好",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，报{{jobName}}就像买彩票——中了高兴，没中就当累积运气",
+            "weight": 2
+          }
+        ]
+      }
+    ],
+    "over-preparer": [
+      {
+        "position": 1,
+        "title": "搞清门槛",
+        "options": [
+          {
+            "text": "其实{{jobName}}的门槛比你想象的低——很多要求是「优先」而不是「必须」",
+            "weight": 10
+          },
+          {
+            "text": "你会把{{jobName}}的公告读5遍——但1遍就够了，真的",
+            "weight": 9
+          },
+          {
+            "text": "用两个list整理{{jobName}}：已满足 vs 待补充——第一个list就是你的信心来源",
+            "weight": 8
+          },
+          {
+            "text": "你的同学可能连{{jobName}}的公告都没读完就报名了，你也别太认真",
+            "weight": 7
+          },
+          {
+            "text": "不用把{{jobName}}的公告看完——看到「报名方式」那里就够了",
+            "weight": 5
+          },
+          {
+            "text": "如果{{jobName}}明天就考试，你觉得哪里最心虚？只补那一块",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，公告上的「精通」可能只是「学过」，别被吓到",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "title": "改简历",
+        "options": [
+          {
+            "text": "{{personaName}}，改简历给自己一个硬限制：只改30分钟，超时就停",
+            "weight": 10
+          },
+          {
+            "text": "你的简历已经比大部分报名者好了，为{{jobName}}最多微调格式",
+            "weight": 9
+          },
+          {
+            "text": "简历控制在1页，{{jobName}}的HR初筛只有15秒",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，把简历发备考群里求反馈——只听前3条，多了就乱",
+            "weight": 7
+          },
+          {
+            "text": "{{personaName}}，你现在的简历版本号大概是v50——v1的时候就能投了",
+            "weight": 5
+          },
+          {
+            "text": "你为{{jobName}}准备的简历可能已过度优化——试着删掉一段",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，你的简历可能是全国打磨时间最长但投递次数最少的",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "title": "去投递",
+        "options": [
+          {
+            "text": "选一个渠道报{{jobName}}：官网/国聘网/校招系统——不拘泥于最优",
+            "weight": 10
+          },
+          {
+            "text": "不要因为觉得{{jobName}}还没准备好就不报——报名本身就是准备的一部分",
+            "weight": 9
+          },
+          {
+            "text": "给{{jobName}}写一段简短的报名自荐（200字），但不要超过200字",
+            "weight": 8
+          },
+          {
+            "text": "把报{{jobName}}这件事告诉一个朋友，让他半小时后问你报了没",
+            "weight": 7
+          },
+          {
+            "text": "不要等到\"完全准备好\"——那一天的{{jobName}}可能已经截止了",
+            "weight": 5
+          },
+          {
+            "text": "假设{{jobName}}明天截止报名，你现在还缺什么？缺的值得今天补吗？",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，你可能是全世界报名前准备最充分但报名次数最少的人",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 4,
+        "title": "行测/申论准备",
+        "options": [
+          {
+            "text": "{{jobName}}笔试你已经准备过头了——行测核心题型你已经掌握了",
+            "weight": 10
+          },
+          {
+            "text": "{{jobName}}笔试你不用把所有题型都学会——拿到60%分就进面了",
+            "weight": 9
+          },
+          {
+            "text": "{{personaName}}，你已经刷了太多题——今天做一套限时模拟就够了",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，你的知识储备够了——现在需要的是模拟真实考试时间压力",
+            "weight": 7
+          },
+          {
+            "text": "你准备的比{{jobName}}笔试范围还广——收窄到最可能考的3个方向",
+            "weight": 5
+          },
+          {
+            "text": "{{personaName}}，关掉所有备考资料，凭记忆做一套——你记得的比以为的多",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，你的行测准备已经够拿3个offer——现在只需要自信",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 5,
+        "title": "结构化面试准备",
+        "options": [
+          {
+            "text": "{{jobName}}面试准备3个故事就够：你的最大优点、最成功的合作、最大成长",
+            "weight": 10
+          },
+          {
+            "text": "{{jobName}}面试你不用准备所有题型——准备好核心故事，其他临场发挥",
+            "weight": 9
+          },
+          {
+            "text": "准备一张小卡片，写3个你最想传达的品质——{{jobName}}面试时瞄一眼",
+            "weight": 8
+          },
+          {
+            "text": "让朋友假装{{jobName}}的考官，问那些你没准备的题——训练临场",
+            "weight": 7
+          },
+          {
+            "text": "你已经准备很多了，{{jobName}}面试前只需要做一件事：睡个好觉",
+            "weight": 5
+          },
+          {
+            "text": "把{{jobName}}面试的准备材料锁起来——你不需要再看它们了",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，你背着50页逐字稿去面{{jobName}}——但其实考官只想要一个真诚的聊天",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 6,
+        "title": "群面模拟",
+        "options": [
+          {
+            "text": "{{personaName}}，关掉你的群面宝典！找几个人即兴讨论一次——真实比完美更重要",
+            "weight": 10
+          },
+          {
+            "text": "让朋友随机给一个群面话题，你即兴发言——{{jobName}}群面大概率有意外",
+            "weight": 9
+          },
+          {
+            "text": "{{personaName}}，删掉准备的一半材料——用剩下的一半即兴模拟，效果更好",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，扔掉准备很久的稿子——用关键词即兴发言，你会发现你其实都会",
+            "weight": 7
+          },
+          {
+            "text": "把材料收起来，跟朋友聊天一样谈谈{{jobName}}——自然的状态最珍贵",
+            "weight": 5
+          },
+          {
+            "text": "{{personaName}}，跟Siri或语音助手做一次群面模拟——比跟人说话压力小",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，你的群面模拟次数可能已经超过正式面试了——该切换了",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 7,
+        "title": "跟进复盘",
+        "options": [
+          {
+            "text": "报完{{jobName}}后不要复盘报名填得有没有瑕疵——已经提交了",
+            "weight": 10
+          },
+          {
+            "text": "不要写邮件催{{jobName}}的人事部门——国企流程定了催也没用",
+            "weight": 9
+          },
+          {
+            "text": "{{jobName}}没发通知不代表你不够好——只代表他们流程长",
+            "weight": 8
+          },
+          {
+            "text": "不要分析{{jobName}}为什么没发通知——你永远不会知道原因",
+            "weight": 7
+          },
+          {
+            "text": "忘掉{{jobName}}的最好方法：马上开始准备下一个单位的笔试",
+            "weight": 5
+          },
+          {
+            "text": "给{{jobName}}的报名写一个\"心理结案\"——然后move on",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，等通知的焦虑版本号已经v8了——其实v1时你就该放下的",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 8,
+        "title": "心态复位",
+        "options": [
+          {
+            "text": "{{personaName}}，够了！你已经做得够多了——现在奖励自己一个\"不复习\"的晚上",
+            "weight": 10
+          },
+          {
+            "text": "你为{{jobName}}付出的准备时间已超过必要水平——剩下的事交给命运",
+            "weight": 9
+          },
+          {
+            "text": "把为{{jobName}}准备的材料整理归档——但不要打开看了，归档就是归档",
+            "weight": 8
+          },
+          {
+            "text": "你为{{jobName}}积累的准备资料是你的资产——下一个单位考试直接复用",
+            "weight": 7
+          },
+          {
+            "text": "告诉自己：我今天为{{jobName}}做的已足够。这是事实不是安慰",
+            "weight": 5
+          },
+          {
+            "text": "为自己设一个\"庆祝日\"——不是为了{{jobName}}的结果，是为了今天的行动",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，你已经可以给\"如何备考国企\"开讲座了——现在去轻松一下",
+            "weight": 2
+          }
+        ]
+      }
+    ],
+    "zen-master": [
+      {
+        "position": 1,
+        "title": "搞清门槛",
+        "options": [
+          {
+            "text": "打开{{jobName}}的公告，心平气和地看一遍，不急着做决定",
+            "weight": 10
+          },
+          {
+            "text": "大概知道{{jobName}}要什么人就行，不必逐字背诵",
+            "weight": 9
+          },
+          {
+            "text": "花两分钟看完{{jobName}}的公告，然后关掉，开始做",
+            "weight": 8
+          },
+          {
+            "text": "看一眼{{jobName}}的发布日期，如果是上周发的就别纠结细节了",
+            "weight": 7
+          },
+          {
+            "text": "把{{jobName}}的公告存到书签，今天的事就是打开它",
+            "weight": 5
+          },
+          {
+            "text": "{{jobName}}的机会还有很多——国央企系统庞大，不差这一个",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，公告看完喝杯茶，心平气和地准备报名材料",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "title": "改简历",
+        "options": [
+          {
+            "text": "打开简历对照{{jobName}}的要求，只改最显眼的三行",
+            "weight": 10
+          },
+          {
+            "text": "简历已经够用，加一句\"期待加入{{jobName}}\"就报名",
+            "weight": 9
+          },
+          {
+            "text": "{{personaName}}，检查简历的错别字和日期——这是底线",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，让一个外行朋友看你的简历——他看懂的部分就是HR也会看的",
+            "weight": 7
+          },
+          {
+            "text": "{{personaName}}，改完简历关掉，明天再看一眼，没觉得哪里不对就报名",
+            "weight": 5
+          },
+          {
+            "text": "{{personaName}}，底线是不犯错：检查邮箱、电话、日期、政治面貌有没有写错",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，改简历和泡茶一样——泡太久就苦了",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "title": "去投递",
+        "options": [
+          {
+            "text": "在截止前把{{jobName}}报了，然后保持日常节奏",
+            "weight": 10
+          },
+          {
+            "text": "把报{{jobName}}当成今天的一项普通任务，像喝水一样自然",
+            "weight": 9
+          },
+          {
+            "text": "打开{{jobName}}的报名系统，确认填的信息都是对的",
+            "weight": 8
+          },
+          {
+            "text": "{{jobName}}报了就别反复刷新状态了，国企处理周期长",
+            "weight": 7
+          },
+          {
+            "text": "{{personaName}}，提交前那一秒犹豫是正常的，提交之后反而安心了",
+            "weight": 5
+          },
+          {
+            "text": "报{{jobName}}是一瞬间的事，纠结报不报才是消耗精力的事",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，报不报随缘，但缘分不会自己来敲门",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 4,
+        "title": "行测/申论准备",
+        "options": [
+          {
+            "text": "{{jobName}}笔试前把图形推理和逻辑判断过一遍，不必深挖",
+            "weight": 10
+          },
+          {
+            "text": "{{personaName}}，找一个国企笔试真题汇总，每天看10题，保持手感",
+            "weight": 9
+          },
+          {
+            "text": "把{{jobName}}笔试常见题型做成思维导图，心里有数",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，随便找一道图形推理，做不出来就看解析——不勉强",
+            "weight": 7
+          },
+          {
+            "text": "{{personaName}}，笔试前一天好好睡觉——大脑清醒比多刷一套题有用",
+            "weight": 5
+          },
+          {
+            "text": "{{jobName}}笔试只是通往面试的一扇门——门后面才是舞台",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，笔试就像泡茶——水温够了自然出味道",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 5,
+        "title": "结构化面试准备",
+        "options": [
+          {
+            "text": "{{jobName}}面试就当去聊聊天——聊聊你的经历和对工作的理解",
+            "weight": 10
+          },
+          {
+            "text": "{{jobName}}面试前喝杯茶，把心态调到\"分享模式\"而不是\"考试模式\"",
+            "weight": 9
+          },
+          {
+            "text": "写一个3句话的自我介绍——你是谁、你有什么能力、你为什么适合{{jobName}}",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，在镜子前讲一遍你的自我介绍——能自然地看着自己说就是准备好了",
+            "weight": 7
+          },
+          {
+            "text": "{{jobName}}面试的准备就是回顾你的经历——你每天都和它们在一起",
+            "weight": 5
+          },
+          {
+            "text": "{{personaName}}，面试前做一次深呼吸——让自己回到当下",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，面{{jobName}}时保持你的佛系心态——考官最怕你这种淡定的",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 6,
+        "title": "群面模拟",
+        "options": [
+          {
+            "text": "{{personaName}}，找个话题和几个朋友随便聊聊——自然的交流就是最好的练习",
+            "weight": 10
+          },
+          {
+            "text": "把你对{{jobName}}岗位的理解讲给一个完全不懂的人听——练习表达能力",
+            "weight": 9
+          },
+          {
+            "text": "{{personaName}}，每天散步时练习发表一个2分钟的观点——放松的状态最自然",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，在户外站着发表一段观点——换个环境，换个心态",
+            "weight": 7
+          },
+          {
+            "text": "{{personaName}}，散步时在脑子里过一遍群面流程——身体放松脑子才灵",
+            "weight": 5
+          },
+          {
+            "text": "{{personaName}}，去公园散步时在脑子里模拟群面——自然环境中思维更流畅",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，群面模拟最高境界：练到你正式群面时忘了这是面试",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 7,
+        "title": "跟进复盘",
+        "options": [
+          {
+            "text": "把{{jobName}}记到你的进度表上，然后该干嘛干嘛",
+            "weight": 10
+          },
+          {
+            "text": "等{{jobName}}回复的同时保持日常——备考是生活的一部分",
+            "weight": 9
+          },
+          {
+            "text": "把{{jobName}}放进\"已报名待通知\"列表，每周统一检查一次",
+            "weight": 8
+          },
+          {
+            "text": "报完{{jobName}}心态应该是\"随缘但准备着\"——继续备考但不执着",
+            "weight": 7
+          },
+          {
+            "text": "{{jobName}}如果没回，缘分没到——缘分没到不强求",
+            "weight": 5
+          },
+          {
+            "text": "回顾你为{{jobName}}做的准备——这些能力不会白费，下一个单位用得上",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，报了就不看——你泡的茶不会因为盯着它凉得更快",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 8,
+        "title": "心态复位",
+        "options": [
+          {
+            "text": "按你的节奏走完了{{jobName}}全部准备流程——平常心，保持状态",
+            "weight": 10
+          },
+          {
+            "text": "好，{{jobName}}的事告一段落。喝茶、散步、做和工作无关的事",
+            "weight": 9
+          },
+          {
+            "text": "在笔记本写一句\"{{jobName}}准备完成\"——仪式感让大脑确认结束",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，观察此刻你的状态——不焦虑了？因为你行动了。行动是焦虑的解药",
+            "weight": 7
+          },
+          {
+            "text": "去阳台上站会儿——窗外的生活和{{jobName}}没关系，这才是你的主场",
+            "weight": 5
+          },
+          {
+            "text": "{{personaName}}，如果你此刻完全不焦虑——那就对了，行动是最好的镇定剂",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，你已经到了那种境界——事做了，心放下了，结果随缘",
+            "weight": 2
+          }
+        ]
+      }
+    ],
+    "project-refactorer": [
+      {
+        "position": 1,
+        "title": "搞清门槛",
+        "options": [
+          {
+            "text": "只看{{jobName}}的硬性条件：学历、专业、党员。达标就继续，不达标就换",
+            "weight": 10
+          },
+          {
+            "text": "{{personaName}}，国企招聘公告就是需求文档——圈出必填项，其他都是可选项",
+            "weight": 9
+          },
+          {
+            "text": "给{{jobName}}画重点：只圈笔试科目和面试形式，其他是噪音",
+            "weight": 8
+          },
+          {
+            "text": "别人看{{jobName}}的公告花2分钟决定报不报，你花2小时——没必要",
+            "weight": 7
+          },
+          {
+            "text": "看{{jobName}}的薪资待遇范围，能接受就开始准备",
+            "weight": 5
+          },
+          {
+            "text": "不要纠结{{jobName}}的单位排名——进去之后的发展才是关键",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，国企公告是别人写的需求文档——不用你重构，读就完了",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "title": "改简历",
+        "options": [
+          {
+            "text": "别重构简历！用现在的版本，只把{{jobName}}看重的综合素质往前放",
+            "weight": 10
+          },
+          {
+            "text": "简历不是GitHub——{{jobName}}的HR只看最近最相关的内容",
+            "weight": 9
+          },
+          {
+            "text": "把你的经历按和{{jobName}}的相关度排序，最相关的放最上面",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，去WPS找个好看的简历模板，把内容填进去，别再自己设计",
+            "weight": 7
+          },
+          {
+            "text": "{{personaName}}，简历不需要commit history——你的求职也不是",
+            "weight": 5
+          },
+          {
+            "text": "{{personaName}}，你的简历可能太学术了——加一句\"人话\"自我描述",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，简历v47.2-final-FINAL.pdf——看到这种文件名就想打人",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "title": "去投递",
+        "options": [
+          {
+            "text": "现在！就报{{jobName}}！别再迟疑了",
+            "weight": 10
+          },
+          {
+            "text": "报{{jobName}}只需：填表→上传→提交。你没有理由不做",
+            "weight": 9
+          },
+          {
+            "text": "报{{jobName}}时不要附作品集链接——国企不看GitHub",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，提交前最后检查：报名表是不是最新版？照片是不是近期？",
+            "weight": 7
+          },
+          {
+            "text": "报{{jobName}}比反复看{{jobName}}的公告重要100倍",
+            "weight": 5
+          },
+          {
+            "text": "你为{{jobName}}准备的简历版如果超过3个——选最新的那个",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，你的commit记录很多，报名记录很少——该平衡了",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 4,
+        "title": "行测/申论准备",
+        "options": [
+          {
+            "text": "{{jobName}}笔试重点：资料分析！保证正确率90%是底线",
+            "weight": 10
+          },
+          {
+            "text": "别把时间花在整理笔记上——直接刷{{jobName}}的真题，错了看解析",
+            "weight": 9
+          },
+          {
+            "text": "{{jobName}}笔试不求全对——资料分析和判断推理优先保证",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，别再收集第11份笔试资料了——在现有10份里挑一份看完",
+            "weight": 7
+          },
+          {
+            "text": "别为了{{jobName}}的笔试报几千块的培训班——免费资源够了",
+            "weight": 5
+          },
+          {
+            "text": "做{{jobName}}笔试时优先做会的题——先易后难",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，笔试做题不用像写代码那么讲究——做对就行",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 5,
+        "title": "结构化面试准备",
+        "options": [
+          {
+            "text": "{{personaName}}，选一个例子就够了！把你最成功的经历用STAR法则写成2分钟讲稿",
+            "weight": 10
+          },
+          {
+            "text": "别在脑子里重构你的回答了——{{jobName}}考官想听真实的想法，不是完美的模板",
+            "weight": 9
+          },
+          {
+            "text": "{{personaName}}，你的经历已经够好了——现在把\"做了什么\"翻译成\"体现了什么能力\"",
+            "weight": 8
+          },
+          {
+            "text": "把你的职业规划讲给一个外行听——能听懂，{{jobName}}的考官也能听懂",
+            "weight": 7
+          },
+          {
+            "text": "简化！{{jobName}}面试准备只需要：一个故事+一个观点+一个问题",
+            "weight": 5
+          },
+          {
+            "text": "{{jobName}}面试时如果被问到\"你还要补充什么\"——说\"目前就这些，谢谢\"",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，考官问你职业规划时——说\"先做好本职工作\"是国企最想听的",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 6,
+        "title": "群面模拟",
+        "options": [
+          {
+            "text": "找几个备考搭子（线上也行）模拟一次{{jobName}}群面——不许提前准备",
+            "weight": 10
+          },
+          {
+            "text": "{{personaName}}，把你的观点用一段话清楚地说出来——对方听懂了就是胜利",
+            "weight": 9
+          },
+          {
+            "text": "{{personaName}}，给自己录一段模拟群面发言——你会发现你表现得不差",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，只练一个：接到话题后30秒内组织出有逻辑的观点",
+            "weight": 7
+          },
+          {
+            "text": "{{personaName}}，模拟群面时如果卡壳了——停3秒深呼吸继续，这很正常",
+            "weight": 5
+          },
+          {
+            "text": "{{personaName}}，群面模拟中如果被盯住追问——诚实回答比完美答案好",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，群面模拟不需要10个版本——1个自然的状态就够了",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 7,
+        "title": "跟进复盘",
+        "options": [
+          {
+            "text": "报完{{jobName}}就move on——别复盘报名过程，继续准备笔试",
+            "weight": 10
+          },
+          {
+            "text": "跟进{{jobName}}只需关注官方公告——不更新就是还没进展",
+            "weight": 9
+          },
+          {
+            "text": "跟进{{jobName}}别又开始研究公告——跟进的目的是看进展，不是重新纠结",
+            "weight": 8
+          },
+          {
+            "text": "在{{jobName}}的申请跟进中保持\"完成就好\"的心态",
+            "weight": 7
+          },
+          {
+            "text": "不等{{jobName}}了——在等的过程中你已经可以刷完整本题库了",
+            "weight": 5
+          },
+          {
+            "text": "把为{{jobName}}准备的材料归档——下一个类似单位直接复用",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，反复查看公告不会让人事处理得更快——不如去刷题",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 8,
+        "title": "心态复位",
+        "options": [
+          {
+            "text": "{{personaName}}，以上7步你每一步都只做了一遍——没反复纠结，这就是进步",
+            "weight": 10
+          },
+          {
+            "text": "{{personaName}}，不纠结、不回头、不反复——你今天的表现已经是满分了",
+            "weight": 9
+          },
+          {
+            "text": "{{personaName}}，今天没有反复纠结任何东西！这是你求职路上里程碑式的一天",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，你的准备流程里没有\"反复纠结\"这个词——这就是进步",
+            "weight": 7
+          },
+          {
+            "text": "看，你没有反复修改就完成了{{jobName}}的报名——这是可以复制的",
+            "weight": 5
+          },
+          {
+            "text": "{{personaName}}，你的备考不需要完美，你的求职流程也不需要——完成就是满分",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，你最大成就不是完成了{{jobName}}准备——是你没反复纠结就完成了",
+            "weight": 2
+          }
+        ]
+      }
+    ],
+    "intern-only": [
+      {
+        "position": 1,
+        "title": "搞清门槛",
+        "options": [
+          {
+            "text": "对比{{jobName}}的要求和你的实习经历，找出最能证明你能力的点",
+            "weight": 10
+          },
+          {
+            "text": "看{{jobName}}是否对实习经历有加分——多数国企不怎么看重，但你的有关系",
+            "weight": 9
+          },
+          {
+            "text": "对比{{jobName}}和你实习内容的匹配度，写出3个你能讲的点",
+            "weight": 8
+          },
+          {
+            "text": "问问实习单位的正式员工怎么看{{jobName}}这样的岗位",
+            "weight": 7
+          },
+          {
+            "text": "对比一下{{jobName}}和你实习单位的企业文化差异——这是你的独特视角",
+            "weight": 5
+          },
+          {
+            "text": "如果你实习转正不确定，{{jobName}}就是你最好的Plan B",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，国企校招公告和社招公告是两种文体，校招更看重基础",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "title": "改简历",
+        "options": [
+          {
+            "text": "在简历上加实习经历——{{jobName}}这种岗位对实战经验很看重",
+            "weight": 10
+          },
+          {
+            "text": "量化实习期间的成绩（比如经手X万数据），{{jobName}}的HR也爱看数字",
+            "weight": 9
+          },
+          {
+            "text": "用STAR法则改写实习经历，{{jobName}}面试官会被引导着问",
+            "weight": 8
+          },
+          {
+            "text": "让实习同事帮忙看简历——他们知道{{jobName}}这样的岗位看重什么",
+            "weight": 7
+          },
+          {
+            "text": "简历目标栏写\"{{jobName}}方向\"，加上实习经历，够了",
+            "weight": 5
+          },
+          {
+            "text": "简历底部加\"可全职到岗时间\"——{{jobName}}如果是急招会很看重",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，简历上写\"预备党员\"或\"中共党员\"比你想的有分量",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "title": "去投递",
+        "options": [
+          {
+            "text": "报{{jobName}}时在备注写\"有相关实习经验，可提前到岗\"",
+            "weight": 10
+          },
+          {
+            "text": "报完{{jobName}}在实习日历上标记，别和实习安排冲突",
+            "weight": 9
+          },
+          {
+            "text": "{{personaName}}，报名自述里写\"目前在某单位实习，预计X月结束\"",
+            "weight": 8
+          },
+          {
+            "text": "报{{jobName}}前确认好实习安排，别让两边时间冲突",
+            "weight": 7
+          },
+          {
+            "text": "把{{jobName}}当作实习转正的备份——报了不亏",
+            "weight": 5
+          },
+          {
+            "text": "报{{jobName}}时想想：这次报名可能决定你毕业后的第一份工作",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，实习是主路，{{jobName}}是辅路——两条路都走走看",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 4,
+        "title": "行测/申论准备",
+        "options": [
+          {
+            "text": "{{jobName}}笔试可能考时政常识——重点复习近半年的重大事件",
+            "weight": 10
+          },
+          {
+            "text": "{{personaName}}，结合实习中接触的公文和材料，你的申论有天然优势",
+            "weight": 9
+          },
+          {
+            "text": "结合实习中的实际工作准备{{jobName}}笔试的公文写作题",
+            "weight": 8
+          },
+          {
+            "text": "问问实习单位考过编的同事怎么准备{{jobName}}的笔试",
+            "weight": 7
+          },
+          {
+            "text": "在{{jobName}}笔试中多用实习积累的案例回答申论题",
+            "weight": 5
+          },
+          {
+            "text": "{{jobName}}笔试前不用专门请假——利用碎片时间就够了",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，实习是最好的笔试准备——你已经在实践中学习了",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 5,
+        "title": "结构化面试准备",
+        "options": [
+          {
+            "text": "{{jobName}}面试重点讲你的实习中体现的责任心和团队协作",
+            "weight": 10
+          },
+          {
+            "text": "准备一个\"实习中最有成就感的一件事\"——{{jobName}}面试必问",
+            "weight": 9
+          },
+          {
+            "text": "准备一个问题：\"为什么从实习岗想来体制内\"——{{jobName}}考官肯定会问",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，让实习mentor跟你做一次模拟面试——他们的反馈最贴近实际",
+            "weight": 7
+          },
+          {
+            "text": "{{jobName}}面试和实习面试很像——你经历过一次，这次只会更从容",
+            "weight": 5
+          },
+          {
+            "text": "{{jobName}}面试可能在你实习期间——和考官坦诚你的时间安排",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，你是实习生但不是小朋友——面{{jobName}}时挺直腰杆",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 6,
+        "title": "群面模拟",
+        "options": [
+          {
+            "text": "用实习中的团队协作案例作为{{jobName}}群面的发言素材",
+            "weight": 10
+          },
+          {
+            "text": "{{personaName}}，用实习中的真实案例练习群面发言——比背诵模板有效10倍",
+            "weight": 9
+          },
+          {
+            "text": "让实习同事用午休时间帮你模拟10分钟的{{jobName}}群面",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，模拟被问到\"如果团队里有人和你意见不同怎么办\"——群面高频题",
+            "weight": 7
+          },
+          {
+            "text": "{{personaName}}，练习群面中如何自然提到你的实习经历——不突兀但加分",
+            "weight": 5
+          },
+          {
+            "text": "{{personaName}}，练习把实习经验翻译成群面中的观点——去掉内部术语",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，实习中的每次团队会议都是群面演习——珍惜每次参与",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 7,
+        "title": "跟进复盘",
+        "options": [
+          {
+            "text": "报完{{jobName}}记下报名日期和渠道——这是你的Plan B",
+            "weight": 10
+          },
+          {
+            "text": "跟进{{jobName}}的同时跟实习Leader同步——保持信息透明",
+            "weight": 9
+          },
+          {
+            "text": "如果你在实习中表现好，等{{jobName}}通知的同时继续积累经历",
+            "weight": 8
+          },
+          {
+            "text": "等{{jobName}}通知的同时更新求职状态——让备选机会也能看到你",
+            "weight": 7
+          },
+          {
+            "text": "等{{jobName}}但不all-in——实习转正才是你当前最重要的进程",
+            "weight": 5
+          },
+          {
+            "text": "即使{{jobName}}没回，你的实习经历仍是简历上最有分量的部分",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，你的实习是最好的跟进信——用成果说话",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 8,
+        "title": "心态复位",
+        "options": [
+          {
+            "text": "{{jobName}}只是你职业路上一个可能性——完成准备后把注意力还给自己",
+            "weight": 10
+          },
+          {
+            "text": "Plan A是实习转正，Plan B是{{jobName}}——你两头都有安排，焦虑什么",
+            "weight": 9
+          },
+          {
+            "text": "不管{{jobName}}结果如何，你现在有两手准备——这种安全感值得庆祝",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，你在实习+备考双线作战——能坚持到现在，你已经赢了",
+            "weight": 7
+          },
+          {
+            "text": "{{jobName}}这条线布置好了——现在专注你的实习日常，两手都不放",
+            "weight": 5
+          },
+          {
+            "text": "{{personaName}}，有实习+有备选=有底气——你现在状态已经比很多人好",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，实习不是牢笼，{{jobName}}不是逃路——两个都是你主动选择的可能性",
+            "weight": 2
+          }
+        ]
+      }
+    ],
+    "emo-recoverer": [
+      {
+        "position": 1,
+        "title": "搞清门槛",
+        "options": [
+          {
+            "text": "正常，{{jobName}}的公告看起来吓人——但其实一半以上的要求都不是硬性的",
+            "weight": 10
+          },
+          {
+            "text": "把{{jobName}}的公告中让你紧张的词圈出来，然后问自己：是硬性还是软性？",
+            "weight": 9
+          },
+          {
+            "text": "找张纸列出{{jobName}}让你担心和让你有信心的点各3个",
+            "weight": 8
+          },
+          {
+            "text": "放心，报名{{jobName}}的人里至少一半和你一样忐忑",
+            "weight": 7
+          },
+          {
+            "text": "打开{{jobName}}的页面，深呼吸三次，然后关掉——今天的工作完成了",
+            "weight": 5
+          },
+          {
+            "text": "假设{{jobName}}已经没戏了（当然还没），你还会准备其他考试吗？",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，公告没写的是：他们也在等一个像你这样的年轻人",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "title": "改简历",
+        "options": [
+          {
+            "text": "你的简历已经不错了，针对{{jobName}}改一句话就够",
+            "weight": 10
+          },
+          {
+            "text": "{{personaName}}，简历上最近一段经历就够了，不需要把大学四年全写上去",
+            "weight": 9
+          },
+          {
+            "text": "{{personaName}}，改简历前先喝杯水——这份简历已经帮别人拿到过面试了",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，把简历给一个不太熟的人看——他们的评价更接近HR视角",
+            "weight": 7
+          },
+          {
+            "text": "{{personaName}}，把简历字体调大一点——有时候你只需要这个",
+            "weight": 5
+          },
+          {
+            "text": "{{personaName}}，翻出你第一次写的简历和现在对比——你已经进步太多了",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，你的简历能打动{{jobName}}的HR——如果连你都不信，先看一遍再评价",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "title": "去投递",
+        "options": [
+          {
+            "text": "深呼吸，然后点下{{jobName}}的提交按钮——点完就轻松了",
+            "weight": 10
+          },
+          {
+            "text": "报{{jobName}}就像发一封邮件——发出去了就完成了，不需要对方秒回",
+            "weight": 9
+          },
+          {
+            "text": "把{{jobName}}的提交按钮想象成一扇门——推开它，不是拆了它",
+            "weight": 8
+          },
+          {
+            "text": "让朋友陪你一起报{{jobName}}——两个人一起按提交键就没那么紧张",
+            "weight": 7
+          },
+          {
+            "text": "{{personaName}}，提交的那一刻你会感到一种奇妙的轻松——试试看",
+            "weight": 5
+          },
+          {
+            "text": "你的emo可能需要3天恢复，但{{jobName}}的报名只需要3分钟",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，报{{jobName}}就像表白——最差也就是资格审查没通过",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 4,
+        "title": "行测/申论准备",
+        "options": [
+          {
+            "text": "{{jobName}}的笔试不是决定生死的考试——考不过的大有人在",
+            "weight": 10
+          },
+          {
+            "text": "做不出来{{jobName}}的行测题不丢人——那些题本来就有15%超难",
+            "weight": 9
+          },
+          {
+            "text": "{{personaName}}，做一套不限时的行测题感受一下——不用打分",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，笔试只是第一关——这一关不需要完美，过线就行",
+            "weight": 7
+          },
+          {
+            "text": "{{personaName}}，笔试时卡住了很正常——跳过继续，后面还有机会",
+            "weight": 5
+          },
+          {
+            "text": "{{jobName}}笔试前听一首你最喜欢的歌——好心情是最好的准备",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，笔试考不过不是失败——是排除了不适合你的单位",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 5,
+        "title": "结构化面试准备",
+        "options": [
+          {
+            "text": "{{jobName}}的考官也是人，他们不是在审判你——是在了解你",
+            "weight": 10
+          },
+          {
+            "text": "{{jobName}}的考官可能一天面了十几个人——做一个让他记住的正常人就赢了",
+            "weight": 9
+          },
+          {
+            "text": "准备{{jobName}}面试时每准备一个问题就给自己一句鼓励",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，和朋友约一次模拟面试但把它叫做\"聊天练习\"——名字影响心态",
+            "weight": 7
+          },
+          {
+            "text": "{{jobName}}面试前给自己写一封\"面试后想对自己说的话\"",
+            "weight": 5
+          },
+          {
+            "text": "把{{jobName}}面试当成一次练习——最差的结果就是多了练习机会",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，没面上就emo三天——但面试本身只需要你坚强30分钟",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 6,
+        "title": "群面模拟",
+        "options": [
+          {
+            "text": "{{personaName}}，把群面想象成大学小组讨论——你经历过无数次了",
+            "weight": 10
+          },
+          {
+            "text": "和朋友玩角色扮演：你是{{jobName}}的群面考官，朋友来面试——反串缓解紧张",
+            "weight": 9
+          },
+          {
+            "text": "{{personaName}}，录一段你的模拟发言——但不要批判自己，只找亮点",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，和朋友一起做群面模拟——但这次你当观察者，你会发现没那么可怕",
+            "weight": 7
+          },
+          {
+            "text": "{{personaName}}，对着窗户（不是镜子）讲话——看不到自己的表情会更放松",
+            "weight": 5
+          },
+          {
+            "text": "{{personaName}}，把群面想象成你在给好朋友出主意——你的语气会自然很多",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，群面模拟崩溃了没关系——正式群面你的情绪反而稳定",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 7,
+        "title": "跟进复盘",
+        "options": [
+          {
+            "text": "报完{{jobName}}做一件让你开心的事——分散注意力比安慰更管用",
+            "weight": 10
+          },
+          {
+            "text": "如果{{jobName}}一直没消息——那不是对你的评价，是体制内的正常节奏",
+            "weight": 9
+          },
+          {
+            "text": "把{{jobName}}的沉默想象成\"他们在认真审核\"——给自己正面的解释",
+            "weight": 8
+          },
+          {
+            "text": "设一个\"{{jobName}}心情回顾日\"——到那天和朋友聊聊感受",
+            "weight": 7
+          },
+          {
+            "text": "把{{jobName}}的沉默当作一个buffer——你有时间处理自己的情绪",
+            "weight": 5
+          },
+          {
+            "text": "如果{{jobName}}没回让你难过——允许自己难过一天，明天继续",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，沉默不是对你的评判——下次报名的结果会不同",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 8,
+        "title": "心态复位",
+        "options": [
+          {
+            "text": "你已经走完了{{jobName}}准备全流程——不管结果，你行动了，这就够了",
+            "weight": 10
+          },
+          {
+            "text": "如果{{jobName}}让你焦虑——那是你在乎这份工作的证明，别让在乎变成负担",
+            "weight": 9
+          },
+          {
+            "text": "{{personaName}}，今天的所有行动都是你抗焦虑的证明——记录这感觉，以后emo时回看",
+            "weight": 8
+          },
+          {
+            "text": "今天你没有逃避——你面对了{{jobName}}。这份勇气比你想象的大",
+            "weight": 7
+          },
+          {
+            "text": "你已证明了可以不被情绪绑架地行动——这是{{jobName}}给你的最大收获",
+            "weight": 5
+          },
+          {
+            "text": "如果{{jobName}}让你emo了——别急着\"变好\"，先允许自己不开心",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，像你这样的人最终都会好起来的——因为你在行动，不是停在原地",
+            "weight": 2
+          }
+        ]
+      }
+    ],
+    "long-planner": [
+      {
+        "position": 1,
+        "title": "搞清门槛",
+        "options": [
+          {
+            "text": "把{{jobName}}的各项门槛拆成checklist：硬性条件、加分项、提交材料",
+            "weight": 10
+          },
+          {
+            "text": "第一步永远是搞清楚{{jobName}}的硬性条件——知己知彼",
+            "weight": 9
+          },
+          {
+            "text": "用Excel列出{{jobName}}的报名条件checklist，打勾的比你想的多",
+            "weight": 8
+          },
+          {
+            "text": "把{{jobName}}的公告发给一个有经验的前辈看一眼，外部视角很有用",
+            "weight": 7
+          },
+          {
+            "text": "在日历上标注{{jobName}}的关键节点：报名截止、笔试通知、面试",
+            "weight": 5
+          },
+          {
+            "text": "{{jobName}}可能在你备考时已经招满了——所以要快但别慌",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，把公告当项目计划书读——你是项目经理，分析它而不是被它吓到",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "title": "改简历",
+        "options": [
+          {
+            "text": "打开简历模板，按{{jobName}}的要求填\"能力匹配\"那一栏",
+            "weight": 10
+          },
+          {
+            "text": "定量化你的成果——{{jobName}}的HR扫简历第一眼找数字",
+            "weight": 9
+          },
+          {
+            "text": "用\"动宾+数字+结果\"的格式改写每条经历，适配{{jobName}}",
+            "weight": 8
+          },
+          {
+            "text": "找一个在{{jobName}}类似单位工作的前辈，问筛简历看重什么",
+            "weight": 7
+          },
+          {
+            "text": "先用bullet point列出和{{jobName}}相关的3个核心卖点再填模板",
+            "weight": 5
+          },
+          {
+            "text": "{{personaName}}，做A/B版简历实验：两个版本各投5个单位，看哪个回复率高",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，简历改到第三版就可以停了，边际收益归零",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "title": "去投递",
+        "options": [
+          {
+            "text": "按计划今天报名{{jobName}}，报完在你的进度表上打勾",
+            "weight": 10
+          },
+          {
+            "text": "确认{{jobName}}报名渠道和截止时间，报完在追踪表里记录",
+            "weight": 9
+          },
+          {
+            "text": "按报名计划，{{jobName}}是今天第X个目标",
+            "weight": 8
+          },
+          {
+            "text": "在求职追踪表记下{{jobName}}的报名时间和渠道",
+            "weight": 7
+          },
+          {
+            "text": "{{jobName}}在你的报名计划中可能权重不高，但报了就是进度",
+            "weight": 5
+          },
+          {
+            "text": "计划中{{jobName}}的报名窗口还剩{{daysLeft}}天，今天是最轻松的一天",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，你的计划写得很完美了——现在执行第一步：报{{jobName}}",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 4,
+        "title": "行测/申论准备",
+        "options": [
+          {
+            "text": "今天攻克{{jobName}}笔试的行测言语模块——片段阅读和逻辑填空",
+            "weight": 10
+          },
+          {
+            "text": "下载粉笔App，利用碎片时间刷{{jobName}}笔试的言语和判断",
+            "weight": 9
+          },
+          {
+            "text": "用Notion做{{jobName}}笔试的知识点checklist，逐一过关",
+            "weight": 8
+          },
+          {
+            "text": "设定{{jobName}}笔试准备的里程碑——每完成一个模块给奖励",
+            "weight": 7
+          },
+          {
+            "text": "{{personaName}}，你的笔试准备时间表里还有缓冲期，按部就班就好",
+            "weight": 5
+          },
+          {
+            "text": "把{{jobName}}笔试准备分解成微步骤——每天只完成一个知识点",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，规划已经满分——执行从今天开始",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 5,
+        "title": "结构化面试准备",
+        "options": [
+          {
+            "text": "按计划准备{{jobName}}面试：整理经历→分类题型→控制3分钟",
+            "weight": 10
+          },
+          {
+            "text": "用Excel列出{{jobName}}面试可能问的题型，按优先级排序逐一准备",
+            "weight": 9
+          },
+          {
+            "text": "{{personaName}}，按题型整理每个经历的回答——综合分析类、应急应变类各2个",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，在计划里安排一次真实的模拟面试——找职业规划老师或付费mock",
+            "weight": 7
+          },
+          {
+            "text": "{{jobName}}面试准备按你的节奏来——你提前规划就是有这种从容",
+            "weight": 5
+          },
+          {
+            "text": "在日历上标记{{jobName}}的面试时间，提前设置提醒",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，{{jobName}}面试在你的计划表上只是一个小节点——按计划走就好",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 6,
+        "title": "群面模拟",
+        "options": [
+          {
+            "text": "{{personaName}}，按计划安排一次完整的群面模拟：审题→个人陈述→自由讨论→总结",
+            "weight": 10
+          },
+          {
+            "text": "用计时器严格控制发言时间——{{jobName}}群面每人累计不超过5分钟",
+            "weight": 9
+          },
+          {
+            "text": "群面模拟安排在{{jobName}}真群面前3天——留时间消化反馈",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，把群面模拟安排在每天的固定时段——让它成为习惯",
+            "weight": 7
+          },
+          {
+            "text": "{{personaName}}，你已经有群面模拟计划了——今天只需要按计划走一小步",
+            "weight": 5
+          },
+          {
+            "text": "{{personaName}}，把你的群面模拟录音存档——面完后回听会看到成长",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，在你的模拟计划里加入\"随机意外\"环节——比如突然换题",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 7,
+        "title": "跟进复盘",
+        "options": [
+          {
+            "text": "在追踪表记录{{jobName}}关键节点：报名日→预计笔试日→预计面试日",
+            "weight": 10
+          },
+          {
+            "text": "按计划在{{jobName}}各项节点前做好提醒——提前设日历",
+            "weight": 9
+          },
+          {
+            "text": "按你计划的节点检查{{jobName}}的状态——每个阶段都有对应准备",
+            "weight": 8
+          },
+          {
+            "text": "在每周回顾中更新{{jobName}}的状态——它是你求职计划中的一个task",
+            "weight": 7
+          },
+          {
+            "text": "在计划表标注{{jobName}}的\"放弃等待日\"——过了就归档",
+            "weight": 5
+          },
+          {
+            "text": "在求职报告中标记{{jobName}}为\"待通知\"——这是系统正常状态",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，在你的求职仪表盘上，{{jobName}}只是一个待更新的节点",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 8,
+        "title": "心态复位",
+        "options": [
+          {
+            "text": "按照计划完成{{jobName}}的全部准备——这是你求职项目里一个漂亮的milestone",
+            "weight": 10
+          },
+          {
+            "text": "这一轮{{jobName}}的准备工作已走完流程——在计划表上写下\"完成\"",
+            "weight": 9
+          },
+          {
+            "text": "{{personaName}}，庆祝这个里程碑完成！在进度表上给自己画一颗星星",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，反思：按计划准备的感受如何？下次哪些步骤可以优化？——但今天只记下来",
+            "weight": 7
+          },
+          {
+            "text": "你为{{jobName}}准备过程中展现了规划的力量——这感觉很好，保持",
+            "weight": 5
+          },
+          {
+            "text": "即使计划被打乱——你依然走完了{{jobName}}流程，这就是灵活性",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，你已按计划抵达这一站——下一站也不会例外",
+            "weight": 2
+          }
+        ]
+      }
+    ],
+    "resume-edit-loop": [
+      {
+        "position": 1,
+        "title": "搞清门槛",
+        "options": [
+          {
+            "text": "打开{{jobName}}的公告，读一遍，关掉——凭记忆说出3个核心要求就够了",
+            "weight": 10
+          },
+          {
+            "text": "看一眼{{jobName}}的报名条件，马上关掉，开始准备材料",
+            "weight": 9
+          },
+          {
+            "text": "设置5分钟闹钟，时间到了就停止研究{{jobName}}的要求",
+            "weight": 8
+          },
+          {
+            "text": "把{{jobName}}的链接发到备考群里，让别人30秒内告诉你重点",
+            "weight": 7
+          },
+          {
+            "text": "把{{jobName}}的报名链接复制下来，发给自己明天的微信",
+            "weight": 5
+          },
+          {
+            "text": "把{{jobName}}的公告打印出来贴墙上——看完20遍你就麻木了，然后去报名",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，国央企公告最多看三遍——超过就是你在给自己加戏",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "title": "改简历",
+        "options": [
+          {
+            "text": "现在你这版简历就是最终版，只允许改3个词——针对{{jobName}}",
+            "weight": 10
+          },
+          {
+            "text": "另存为PDF，文件名\"报名{{jobName}}\"，不许打开编辑器",
+            "weight": 9
+          },
+          {
+            "text": "{{personaName}}，设15分钟计时器，到点必须存为PDF",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，把简历发给说话直接的朋友，让他们用一句话说要删什么",
+            "weight": 7
+          },
+          {
+            "text": "{{personaName}}，打开简历，存为PDF，关掉——这就是今天的成果",
+            "weight": 5
+          },
+          {
+            "text": "{{personaName}}，你改简历的时间已经超过99%的求职者——该停了",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，Ctrl+S按了多少次了？这次直接Ctrl+P打印PDF去报名",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "title": "去投递",
+        "options": [
+          {
+            "text": "把{{jobName}}报出去，不许再打开报名表看一眼",
+            "weight": 10
+          },
+          {
+            "text": "{{personaName}}，提交按钮按下去之后，报名材料就和你没关系了——让人事去判断",
+            "weight": 9
+          },
+          {
+            "text": "报{{jobName}}时选\"快速报名\"，不给修改留余地",
+            "weight": 8
+          },
+          {
+            "text": "让朋友帮你提交——把账号密码给他，告诉他{{jobName}}的报名链接",
+            "weight": 7
+          },
+          {
+            "text": "{{personaName}}，闭上眼睛点提交，然后立刻关掉网页",
+            "weight": 5
+          },
+          {
+            "text": "{{personaName}}，把手从鼠标上拿开，深呼吸，然后点提交",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，送你一句咒语：\"资格审查不通过也是结果\"——报！",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 4,
+        "title": "行测/申论准备",
+        "options": [
+          {
+            "text": "打开粉笔，做一套{{jobName}}真题模拟——做完就停，不许反复",
+            "weight": 10
+          },
+          {
+            "text": "别纠结学行测还是申论——{{jobName}}笔试公告写啥就准备啥",
+            "weight": 9
+          },
+          {
+            "text": "{{personaName}}，别纠结该买哪个机构的课——粉笔免费题库就够了",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，去粉笔随便点一套行测题做30分钟——训练决断力",
+            "weight": 7
+          },
+          {
+            "text": "用一张纸列出{{jobName}}笔试3个最可能考的题型——只准备这3个",
+            "weight": 5
+          },
+          {
+            "text": "用纸笔做{{jobName}}的行测题——没法修改你就不会纠结了",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，笔试资料你肯定存了10个G——但看完1个G就够了",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 5,
+        "title": "结构化面试准备",
+        "options": [
+          {
+            "text": "{{personaName}}，把你最好的2个经历各写一段2分钟介绍——就这版不改了",
+            "weight": 10
+          },
+          {
+            "text": "{{personaName}}，把自我介绍录音下来听一遍——满意就直接用，不许重录超过3次",
+            "weight": 9
+          },
+          {
+            "text": "做一个1分钟版和3分钟版自我介绍——{{jobName}}考官可能说\"请简要介绍\"",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，找个人听你讲最得意的经历——他的反馈会让你发现根本不需要再改",
+            "weight": 7
+          },
+          {
+            "text": "{{jobName}}面试准备到此为止——再准备下去就变成逃避了",
+            "weight": 5
+          },
+          {
+            "text": "{{jobName}}面试是你的舞台不是审判——你已经准备好了",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，你把面试准备当简历一样反复打磨——但其实第一版就够了",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 6,
+        "title": "群面模拟",
+        "options": [
+          {
+            "text": "现在就找3个人约时间——{{jobName}}群面模拟，定在本周",
+            "weight": 10
+          },
+          {
+            "text": "{{personaName}}，把你的群面发言录音，听回放——能接受就过，不要再录了",
+            "weight": 9
+          },
+          {
+            "text": "{{personaName}}，就用你现在的发言版本练——练3遍就够，不是让它完美",
+            "weight": 8
+          },
+          {
+            "text": "练习被打断后重新组织语言——{{jobName}}群面中有人抢话很正常",
+            "weight": 7
+          },
+          {
+            "text": "{{personaName}}，群面模拟不是排练——不需要一字不差，意思到了就行",
+            "weight": 5
+          },
+          {
+            "text": "{{personaName}}，这次群面模拟不允许自己说\"重来一次\"——继续说下去",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，你练一次就够了——真的，第一次往往是最好的",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 7,
+        "title": "跟进复盘",
+        "options": [
+          {
+            "text": "报完{{jobName}}立刻关掉所有页面——你现在的工作是备考，不是复盘",
+            "weight": 10
+          },
+          {
+            "text": "给{{jobName}}单位的咨询电话只打一次——打多了扣印象分",
+            "weight": 9
+          },
+          {
+            "text": "关注{{jobName}}的公众号就够了——存再多查询页面你也不会看",
+            "weight": 8
+          },
+          {
+            "text": "不要天天给{{jobName}}人事打电话——国企反感这个",
+            "weight": 7
+          },
+          {
+            "text": "别刷新{{jobName}}的报名系统了——那不会让人事审核得更快",
+            "weight": 5
+          },
+          {
+            "text": "让{{jobName}}去吧——你已经为它改过足够多简历了",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，你公告看了N遍——其实\"等通知中\"三个字就够了",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 8,
+        "title": "心态复位",
+        "options": [
+          {
+            "text": "你的成就是：你报了{{jobName}}，而且用的是第一时间准备好的材料",
+            "weight": 10
+          },
+          {
+            "text": "{{personaName}}，你做了所有该做的事——而且大部分只做了一遍。值得为自己骄傲",
+            "weight": 9
+          },
+          {
+            "text": "{{personaName}}，你今天做的最重要的事不是改了简历——是按下了报名提交键",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，你今天完成了最难的事：在规定时间内停止纠结",
+            "weight": 7
+          },
+          {
+            "text": "{{personaName}}，把这次\"不再改\"的体验作为模板——以后每次都这么来",
+            "weight": 5
+          },
+          {
+            "text": "今天的MVP（最小可行产品）已交付——{{jobName}}报名完成",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，为你今天的果断干杯——人生苦短，别让纠结挡住真正的机会",
+            "weight": 2
+          }
+        ]
+      }
+    ],
+    "cross-field-rookie": [
+      {
+        "position": 1,
+        "title": "搞清门槛",
+        "options": [
+          {
+            "text": "看看{{jobName}}的专业要求有没有「相关专业」这个表述——有就是机会",
+            "weight": 10
+          },
+          {
+            "text": "{{jobName}}是否有专业大类的要求？大类比具体专业宽松得多",
+            "weight": 9
+          },
+          {
+            "text": "{{jobName}}的要求中你已经会的和需要学的分两列——第一列比你想的长",
+            "weight": 8
+          },
+          {
+            "text": "找个已经在国企工作的人聊聊{{jobName}}这个方向——比自己研究一周有用",
+            "weight": 7
+          },
+          {
+            "text": "在B站/知乎搜{{jobName}}这个行业的新人分享，建立初步认知",
+            "weight": 5
+          },
+          {
+            "text": "{{jobName}}可能不是你最终方向，但它能帮你打开体制内的大门",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，国央企公告对转行者来说是一张导航图——不是判决书",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "title": "改简历",
+        "options": [
+          {
+            "text": "在简历里用一句话说明你为转{{jobName}}方向做了什么准备",
+            "weight": 10
+          },
+          {
+            "text": "用{{jobName}}这个行业的语言重新描述你原专业的经历",
+            "weight": 9
+          },
+          {
+            "text": "在简历里加一个和{{jobName}}方向相关的学习项目，证明学习能力",
+            "weight": 8
+          },
+          {
+            "text": "找成功上岸的人要份简历参考，{{jobName}}方向的更佳",
+            "weight": 7
+          },
+          {
+            "text": "简历最上面写\"正在系统学习{{jobName}}方向知识\"——诚实且有说服力",
+            "weight": 5
+          },
+          {
+            "text": "不会的技能不要编——写\"学习过\"比写\"精通\"在{{jobName}}面试中安全得多",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，转行报国企的简历秘诀：展示稳定性和学习意愿",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "title": "去投递",
+        "options": [
+          {
+            "text": "选{{jobName}}的校招入口报名——校招对转行者最友好",
+            "weight": 10
+          },
+          {
+            "text": "报{{jobName}}时不要因为专业不完全对口就不报——HR筛选是关键词优先",
+            "weight": 9
+          },
+          {
+            "text": "{{jobName}}的报名表如果有\"个人情况\"栏，写你的学习能力和稳定性",
+            "weight": 8
+          },
+          {
+            "text": "在应届生论坛搜{{jobName}}的报名经验贴，看看同背景的人怎么报的",
+            "weight": 7
+          },
+          {
+            "text": "不要因为{{jobName}}写了\"相关专业优先\"就不报——是\"优先\"不是\"必须\"",
+            "weight": 5
+          },
+          {
+            "text": "不要等准备完再报{{jobName}}——你永远准备不完，先报再说",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，你不是零基础，你是从另一座山翻过来的登山者",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 4,
+        "title": "行测/申论准备",
+        "options": [
+          {
+            "text": "{{jobName}}笔试对转行者来说：行测是平等的——不考专业，考思维",
+            "weight": 10
+          },
+          {
+            "text": "{{jobName}}笔试最常考的行测题型就那10种——不需要全学会",
+            "weight": 9
+          },
+          {
+            "text": "准备{{jobName}}笔试优先级：言语>判断>资料分析>数量",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，在B站找\"国企笔试备考\"播放列表，每天看3集",
+            "weight": 7
+          },
+          {
+            "text": "{{jobName}}笔试不考你是不是本专业——行测对所有人都公平",
+            "weight": 5
+          },
+          {
+            "text": "{{personaName}}，你不需要成为行测专家——及格就进面了",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，转行者最大优势是学习力——行测考的就是学习力",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 5,
+        "title": "结构化面试准备",
+        "options": [
+          {
+            "text": "准备一个\"为什么转方向来国企\"的回答——{{jobName}}考官一定会问",
+            "weight": 10
+          },
+          {
+            "text": "准备3个来国企的理由——不是说服{{jobName}}的考官，是说服你自己",
+            "weight": 9
+          },
+          {
+            "text": "把你的原专业和{{jobName}}岗位连接——\"以前学X，培养了我的Y能力\"",
+            "weight": 8
+          },
+          {
+            "text": "找一个上岸国企的前辈mock一次面试——他们视角最接近{{jobName}}考官",
+            "weight": 7
+          },
+          {
+            "text": "{{personaName}}，准备一个\"虽然不是科班但我有X优势\"的真诚版本",
+            "weight": 5
+          },
+          {
+            "text": "{{jobName}}考官可能对你原专业很好奇——那是你的差异化优势",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，你是从另一座山走过来的人——{{jobName}}考官会对你好奇，用好这种好奇",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 6,
+        "title": "群面模拟",
+        "options": [
+          {
+            "text": "{{personaName}}，群面中不一定要当leader——做最好的timer也能出彩",
+            "weight": 10
+          },
+          {
+            "text": "{{personaName}}，群面中展现你转行的独特视角——\"我从X行业的经验中学到……\"",
+            "weight": 9
+          },
+          {
+            "text": "{{personaName}}，练习说\"我补充一个与众不同的角度\"——群面中很加分",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，用腾讯会议录一段你的群面——观察肢体语言和眼神",
+            "weight": 7
+          },
+          {
+            "text": "{{personaName}}，练习挺胸抬头讲话——自信的肢体比完美的措辞更有说服力",
+            "weight": 5
+          },
+          {
+            "text": "{{personaName}}，群面模拟时故意让自己犯一次错——然后练习自然地修正",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，群面中卡壳时别慌——说\"让我想一想\"在{{jobName}}群面中是正常的",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 7,
+        "title": "跟进复盘",
+        "options": [
+          {
+            "text": "报完{{jobName}}总结一下感受——记录下来你的成长",
+            "weight": 10
+          },
+          {
+            "text": "即使{{jobName}}没回音，每次报名都是一次练习——记录你进步的地方",
+            "weight": 9
+          },
+          {
+            "text": "在备考群里关注{{jobName}}的进度——集体等待比一个人焦虑好",
+            "weight": 8
+          },
+          {
+            "text": "在求职记录里记下{{jobName}}的反馈（或没反馈）——这些数据对后续有用",
+            "weight": 7
+          },
+          {
+            "text": "即使{{jobName}}没回，你在准备过程中学到的东西已经是你的了",
+            "weight": 5
+          },
+          {
+            "text": "{{jobName}}没回不代表转行失败——只代表这条路还没通",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，转行的第一份体制内工作最难——{{jobName}}没回不代表之后都没回",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 8,
+        "title": "心态复位",
+        "options": [
+          {
+            "text": "从迷茫到完成{{jobName}}完整准备——你已经走了很远了",
+            "weight": 10
+          },
+          {
+            "text": "你已经从\"迷茫\"进步到\"为{{jobName}}做完了准备\"——这进步是真实的",
+            "weight": 9
+          },
+          {
+            "text": "你已经从一个门外走到了{{jobName}}的门口——不管门开不开，你已经到了",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，你已经从方向模糊的求职者变成了有清晰步调的人——恭喜",
+            "weight": 7
+          },
+          {
+            "text": "从\"不知道报什么\"到\"为{{jobName}}完成准备\"——这是真实的进步",
+            "weight": 5
+          },
+          {
+            "text": "不管{{jobName}}怎么回复——你学到的技能和清晰的自我认知是你自己的",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，你已从转行迷茫者变成了有方向的人——不靠运气，靠行动",
+            "weight": 2
+          }
+        ]
+      }
+    ],
+    "written-test-king": [
+      {
+        "position": 1,
+        "title": "搞清门槛",
+        "options": [
+          {
+            "text": "看{{jobName}}的笔试科目：行测+申论还是专业科目？这决定了你的备考方向",
+            "weight": 10
+          },
+          {
+            "text": "分析{{jobName}}的笔试权重——行测占60%还是40%？重点分配时间",
+            "weight": 9
+          },
+          {
+            "text": "给{{jobName}}的笔试科目分配时间：行测X小时、申论Y小时、专业Z小时",
+            "weight": 8
+          },
+          {
+            "text": "去粉笔/中公搜一下{{jobName}}单位的笔试真题回忆，比盲目刷题高效",
+            "weight": 7
+          },
+          {
+            "text": "找到{{jobName}}往年笔试的科目和题型回忆，开始有方向地准备",
+            "weight": 5
+          },
+          {
+            "text": "{{jobName}}的笔试大概率60分就进面——你不需要考满分",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，考试考的是行测，公告写的是理想——先备考，别看理想",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "title": "改简历",
+        "options": [
+          {
+            "text": "{{personaName}}，简历突出学习能力和应试能力——国央企筛简历看综合素质",
+            "weight": 10
+          },
+          {
+            "text": "简历里加你的专业排名或奖学金——{{jobName}}这种岗位很看重",
+            "weight": 9
+          },
+          {
+            "text": "简历的证书栏按含金量排序——{{jobName}}筛简历会看证书",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，简历给一个非技术朋友看——能看懂就对了",
+            "weight": 7
+          },
+          {
+            "text": "简历不需要所有证书全写上——和{{jobName}}最相关的5个就够了",
+            "weight": 5
+          },
+          {
+            "text": "简历上的获奖写\"校级/省级\"——{{jobName}}单位筛简历看级别",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，简历不是成绩单——但也别完全不说你的高分科目",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "title": "去投递",
+        "options": [
+          {
+            "text": "报名时确认{{jobName}}的笔试科目——对你来说这是送分项",
+            "weight": 10
+          },
+          {
+            "text": "报完{{jobName}}立刻找一套该系统的行测真题，趁热打铁",
+            "weight": 9
+          },
+          {
+            "text": "如果{{jobName}}的报名系统有在线测评，今天直接做了再提交",
+            "weight": 8
+          },
+          {
+            "text": "报完给自己设3天闹钟，3天后开始刷{{jobName}}的真题",
+            "weight": 7
+          },
+          {
+            "text": "报完{{jobName}}就当给自己买了张彩票——中不中看天，买不买看你",
+            "weight": 5
+          },
+          {
+            "text": "报了{{jobName}}之后如果收到笔试通知，那就是你擅长的战场了",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，报了才有笔试机会，笔试才是你上岸的主场",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 4,
+        "title": "行测/申论准备",
+        "options": [
+          {
+            "text": "{{jobName}}笔试是你的主场——但申论别忽视，60%的人倒在申论",
+            "weight": 10
+          },
+          {
+            "text": "{{jobName}}笔试行测对你很简单——但申论需要手写练3篇",
+            "weight": 9
+          },
+          {
+            "text": "{{personaName}}，你的行测已经很强——但申论需要分配更多时间",
+            "weight": 8
+          },
+          {
+            "text": "你的行测够了——去了解{{jobName}}单位的时政热点和企业文化",
+            "weight": 7
+          },
+          {
+            "text": "你已经刷了够多题了——{{jobName}}笔试前做一套保持手感就好",
+            "weight": 5
+          },
+          {
+            "text": "{{jobName}}笔试前只做一件事：睡好觉",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，你刷的题可能比出题人还多——自信点",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 5,
+        "title": "结构化面试准备",
+        "options": [
+          {
+            "text": "{{personaName}}，练习把你的强项转化成口头表达——这是{{jobName}}面试和笔试最大不同",
+            "weight": 10
+          },
+          {
+            "text": "写下你备考过程中最有收获的3个体会——{{jobName}}面试可以当例子讲",
+            "weight": 9
+          },
+          {
+            "text": "{{personaName}}，准备把抽象概念翻译成大白话——\"行测高分说明我的学习能力强\"",
+            "weight": 8
+          },
+          {
+            "text": "找一个人扮演{{jobName}}考官，只问行为面试题——这是你的弱项要多练",
+            "weight": 7
+          },
+          {
+            "text": "{{jobName}}面试中如果被问到不擅长的题型——诚实+结构化分析比硬答好",
+            "weight": 5
+          },
+          {
+            "text": "{{jobName}}面试时被问到不会的——说\"这方面我还想多学习\"比瞎编好",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，你的学习能力是硬通货——{{jobName}}考官可能面试能力还不如你",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 6,
+        "title": "群面模拟",
+        "options": [
+          {
+            "text": "{{personaName}}，模拟练习群面中的逻辑表达——就像你解行测题一样结构化",
+            "weight": 10
+          },
+          {
+            "text": "{{personaName}}，说出来讲一遍你的群面逻辑框架——观点→理由→例子",
+            "weight": 9
+          },
+          {
+            "text": "{{personaName}}，用\"是什么-为什么-怎么办\"的结构组织群面发言",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，练习被打断时优雅地让出发言——群面不是辩论赛",
+            "weight": 7
+          },
+          {
+            "text": "练习放慢语速——你思考太快嘴跟不上，{{jobName}}考官需要听懂",
+            "weight": 5
+          },
+          {
+            "text": "{{personaName}}，群面模拟时故意被问一个你不会的社会热点——练习坦率承认",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，群面你肯定也会疯狂练习——但松弛比精准重要",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 7,
+        "title": "跟进复盘",
+        "options": [
+          {
+            "text": "如果{{jobName}}给了笔试通知——确认时间和科目，开始针对性刷题",
+            "weight": 10
+          },
+          {
+            "text": "如果{{jobName}}的笔试成绩出来了但面试迟迟不发——耐心等，正常现象",
+            "weight": 9
+          },
+          {
+            "text": "如果{{jobName}}给了笔试通知——确认科目，调整刷题重心",
+            "weight": 8
+          },
+          {
+            "text": "{{jobName}}给你笔试机会说明报名材料过关——面试没来不代表不行",
+            "weight": 7
+          },
+          {
+            "text": "{{jobName}}笔试过了就是过了——面试通知没来是流程问题不是你的",
+            "weight": 5
+          },
+          {
+            "text": "{{jobName}}如果笔试过了但不排面试——可能是编制问题，不是你的",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，你的笔试过了说明实力被认可——面试只是时间问题",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 8,
+        "title": "心态复位",
+        "options": [
+          {
+            "text": "{{personaName}}，行测只是求职一部分——聊得来比考得好更重要",
+            "weight": 10
+          },
+          {
+            "text": "行测之外你还有很多闪光点——{{jobName}}的考官如果聪明就会看到",
+            "weight": 9
+          },
+          {
+            "text": "把{{jobName}}的笔试当成智力体检——不管结果，你知道自己哪里强哪里弱",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，行测是基础，但人是多维的——今天你也练习了能力之外的一面",
+            "weight": 7
+          },
+          {
+            "text": "{{personaName}}，表达是行测之外的第二门功课——今天你练习了自己的表达",
+            "weight": 5
+          },
+          {
+            "text": "{{personaName}}，行测可以刷题，但自信需要一次次行动来积累——今天你积累了",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，你证明了你不只是会刷题的机器——你也能走完整个求职流程",
+            "weight": 2
+          }
+        ]
+      }
+    ],
+    "offer-hesitator": [
+      {
+        "position": 1,
+        "title": "搞清门槛",
+        "options": [
+          {
+            "text": "把{{jobName}}和你手上的其他选择列一张对比表：编制、地点、发展路径",
+            "weight": 10
+          },
+          {
+            "text": "比较{{jobName}}的编制类型：事业编还是企业编？差别很大",
+            "weight": 9
+          },
+          {
+            "text": "{{jobName}}的稳定性+发展空间 vs 手里offer的薪资——画张权衡表",
+            "weight": 8
+          },
+          {
+            "text": "把{{jobName}}和你手上的offer做成一张对比表，事实比情绪管用",
+            "weight": 7
+          },
+          {
+            "text": "想一想{{jobName}}在5年后的稳定性——这是国央企最大的优势",
+            "weight": 5
+          },
+          {
+            "text": "假设{{jobName}}明天给offer，你选它还是选手上的？先想清楚",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，在公告上纠结的时间够你刷一套行测题了",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "title": "改简历",
+        "options": [
+          {
+            "text": "针对{{jobName}}，在简历里强调你的稳定性和长期规划",
+            "weight": 10
+          },
+          {
+            "text": "把你在其他面试中展示过的亮点也写进{{jobName}}的简历版本",
+            "weight": 9
+          },
+          {
+            "text": "按{{jobName}}的岗位方向把最相关的2个经历放第一页最上面",
+            "weight": 8
+          },
+          {
+            "text": "让信任的mentor看看你为{{jobName}}准备的简历版本",
+            "weight": 7
+          },
+          {
+            "text": "简历不是越长越好——为{{jobName}}定制一页纸版本",
+            "weight": 5
+          },
+          {
+            "text": "{{personaName}}，有多个选择这件事本身就可以写进简历——\"已有offer，择优选择\"是底气",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，简历上写\"在X个offer中择优\"——让{{jobName}}的HR多看一眼",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "title": "去投递",
+        "options": [
+          {
+            "text": "今天就报{{jobName}}——报完你就多一个选择，而不是一直犹豫",
+            "weight": 10
+          },
+          {
+            "text": "报{{jobName}}时不要想\"万一考上了怎么办\"——先报了再说",
+            "weight": 9
+          },
+          {
+            "text": "报{{jobName}}时在自荐里简短说明你对体制内工作的理解和兴趣",
+            "weight": 8
+          },
+          {
+            "text": "报名时心态放平——你已经有offer了，报{{jobName}}是锦上添花",
+            "weight": 7
+          },
+          {
+            "text": "你已经证明过自己能拿offer——报{{jobName}}只是个加选项的游戏",
+            "weight": 5
+          },
+          {
+            "text": "纠结要不要报的时间，够你把{{jobName}}报了然后再纠结去不去",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，多一个选择不是负担，是筹码——报{{jobName}}就是加筹码",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 4,
+        "title": "行测/申论准备",
+        "options": [
+          {
+            "text": "拿{{jobName}}的笔试当练手——你已经有多手准备了",
+            "weight": 10
+          },
+          {
+            "text": "{{jobName}}笔试过了就当积攒经验，没过也不影响你的其他选择",
+            "weight": 9
+          },
+          {
+            "text": "把{{jobName}}的笔试难度当标尺——衡量是否值得全力以赴",
+            "weight": 8
+          },
+          {
+            "text": "把{{jobName}}笔试当作验证\"这单位值不值得\"的一个数据点",
+            "weight": 7
+          },
+          {
+            "text": "手上有offer的人做{{jobName}}笔试最轻松——反正有保底了",
+            "weight": 5
+          },
+          {
+            "text": "多一个{{jobName}}笔试成绩也能帮你收集信息——至少你知道差距",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，有offer的人做笔试最轻松——反正已经有保底了",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 5,
+        "title": "结构化面试准备",
+        "options": [
+          {
+            "text": "{{jobName}}面试中你会被问到\"为什么选择体制内\"——准备真诚的回答",
+            "weight": 10
+          },
+          {
+            "text": "{{jobName}}面试也是你面试他们——准备3个关于岗位和单位的问题问回去",
+            "weight": 9
+          },
+          {
+            "text": "准备一个\"我对薪资/发展期望\"的坦诚回答——{{jobName}}面试到最后可能问",
+            "weight": 8
+          },
+          {
+            "text": "在{{jobName}}面试中反问考官：这个团队当前最大的挑战是什么？",
+            "weight": 7
+          },
+          {
+            "text": "把{{jobName}}面试当作为手上的offer做决策而收集信息",
+            "weight": 5
+          },
+          {
+            "text": "{{jobName}}面试时坦率说出你目前的状态——真诚比套路更能打动考官",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，{{jobName}}考官也会问你为什么还在面——诚实是最好的策略",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 6,
+        "title": "群面模拟",
+        "options": [
+          {
+            "text": "{{personaName}}，练习群面时的观点表达——\"我尊重不同意见，但从X角度看……\"",
+            "weight": 10
+          },
+          {
+            "text": "和信任的人模拟{{jobName}}的群面场景——综合角色练习",
+            "weight": 9
+          },
+          {
+            "text": "练习群面时说：\"我目前有其他选择，但{{jobName}}是我的优先考虑\"",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，模拟被问\"你为什么同时报其他单位\"——准备不卑不亢的回答",
+            "weight": 7
+          },
+          {
+            "text": "{{personaName}}，练习说一句\"我还在考虑\"——你需要这个句子的肌肉记忆",
+            "weight": 5
+          },
+          {
+            "text": "{{personaName}}，练习面对\"你是不是海投\"的质疑——坦率是最好的回应",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，群面是心理建设——你已经证明过自己能拿offer了",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 7,
+        "title": "跟进复盘",
+        "options": [
+          {
+            "text": "跟进{{jobName}}的进度，但不要因为它拖延其他offer的回复",
+            "weight": 10
+          },
+          {
+            "text": "跟进{{jobName}}时，如果其他offer有回复期限——提前做好取舍",
+            "weight": 9
+          },
+          {
+            "text": "跟进{{jobName}}时明确你的时间线——\"需要在X号前做决定\"",
+            "weight": 8
+          },
+          {
+            "text": "把所有在进行的申请画一条时间线——包括{{jobName}}，可视化减焦虑",
+            "weight": 7
+          },
+          {
+            "text": "与其死等{{jobName}}的回复，不如多了解手里offer的细节",
+            "weight": 5
+          },
+          {
+            "text": "{{personaName}}，忘记跟进——把精力放在手上已有的选择上",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，与其等{{jobName}}，不如多了解你手上offer的发展空间",
+            "weight": 2
+          }
+        ]
+      },
+      {
+        "position": 8,
+        "title": "心态复位",
+        "options": [
+          {
+            "text": "{{personaName}}，你的选择是甜蜜烦恼——不管怎么选，有能力的人永远有选择",
+            "weight": 10
+          },
+          {
+            "text": "{{personaName}}，你现在手里有选择脚下有方向——这已经是很多人羡慕的状态了",
+            "weight": 9
+          },
+          {
+            "text": "{{personaName}}，做了个选择——今天不纠结。把决定推迟到明天，今天只庆祝完成",
+            "weight": 8
+          },
+          {
+            "text": "{{personaName}}，有选择的人生是幸福的——哪怕选择的过程让人头疼",
+            "weight": 7
+          },
+          {
+            "text": "{{personaName}}，今天做过的所有事都是数据——明天你会更清楚自己要什么",
+            "weight": 5
+          },
+          {
+            "text": "{{personaName}}，选择困难是因为你在乎自己的未来——这是一个优点",
+            "weight": 3
+          },
+          {
+            "text": "{{personaName}}，选择恐惧是富人病——恭喜你，在求职这件事上你很富有",
+            "weight": 2
+          }
+        ]
+      }
+    ]
+  }
+}
