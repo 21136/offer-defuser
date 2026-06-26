@@ -128,34 +128,46 @@ export default function ResultPage({ personas }: ResultPageProps) {
           </div>
         </div>
 
-        {/* Similarity bar (Top-2 mixed) */}
+        {/* Match scores (Top-2 independent) */}
         {storeMatch && (
           <div className="bg-white dark:bg-gray-800 rounded-2xl border border-gray-200 dark:border-gray-700 p-5 mb-6">
-            <p className="text-xs text-gray-400 mb-2">人格混合度</p>
-            <div className="flex h-3 rounded-full overflow-hidden mb-2">
-              <div
-                className="bg-blue-500 transition-all"
-                role="progressbar"
-                aria-valuenow={storeMatch.similarity}
-                aria-valuemin={0}
-                aria-valuemax={100}
-                aria-label={`${storeMatch.persona.name} 匹配度`}
-                style={{ width: `${storeMatch.similarity}%` }}
-              />
-              <div
-                className="bg-gray-300 dark:bg-gray-600 transition-all"
-                role="progressbar"
-                aria-valuenow={storeMatch.subSimilarity}
-                aria-valuemin={0}
-                aria-valuemax={100}
-                aria-label={`${storeMatch.subPersona.name} 匹配度`}
-                style={{ width: `${storeMatch.subSimilarity}%` }}
-              />
+            <p className="text-xs text-gray-400 mb-3">人格匹配度</p>
+            {/* Primary match */}
+            <div className="mb-3">
+              <div className="flex justify-between text-xs text-gray-500 mb-1">
+                <span>{getDisplayName(storeMatch.persona, toneMode)}</span>
+                <span className="font-semibold text-blue-600">{storeMatch.similarity}%</span>
+              </div>
+              <div className="h-2.5 rounded-full bg-gray-100 dark:bg-gray-700 overflow-hidden">
+                <div
+                  className="h-full bg-blue-500 rounded-full transition-all"
+                  role="progressbar"
+                  aria-valuenow={storeMatch.similarity}
+                  aria-valuemin={0}
+                  aria-valuemax={100}
+                  aria-label={`${storeMatch.persona.name} 匹配度 ${storeMatch.similarity}%`}
+                  style={{ width: `${storeMatch.similarity}%` }}
+                />
+              </div>
             </div>
-            <p className="text-sm text-gray-600 dark:text-gray-300">
-              {storeMatch.similarity}% {getDisplayName(storeMatch.persona, toneMode)} +{' '}
-              {storeMatch.subSimilarity}% {getDisplayName(storeMatch.subPersona, toneMode)}
-            </p>
+            {/* Secondary match */}
+            <div>
+              <div className="flex justify-between text-xs text-gray-500 mb-1">
+                <span>{getDisplayName(storeMatch.subPersona, toneMode)}</span>
+                <span className="font-semibold text-gray-500">{storeMatch.subSimilarity}%</span>
+              </div>
+              <div className="h-2.5 rounded-full bg-gray-100 dark:bg-gray-700 overflow-hidden">
+                <div
+                  className="h-full bg-gray-400 dark:bg-gray-500 rounded-full transition-all"
+                  role="progressbar"
+                  aria-valuenow={storeMatch.subSimilarity}
+                  aria-valuemin={0}
+                  aria-valuemax={100}
+                  aria-label={`${storeMatch.subPersona.name} 匹配度 ${storeMatch.subSimilarity}%`}
+                  style={{ width: `${storeMatch.subSimilarity}%` }}
+                />
+              </div>
+            </div>
           </div>
         )}
 

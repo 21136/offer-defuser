@@ -238,7 +238,7 @@ for i in 0..7:
 输入: 用户四维向量 userVector (已归一化)
      16 个人格标准向量 personaVectors[]
 
-输出: 最佳匹配人格 + Top-2 混合 + 相似度
+输出: 最佳匹配人格 + Top-2 匹配 + 相似度
 
 算法:
 1. 归一化用户向量到 [0, 100]（见 §2.1 公式）
@@ -257,7 +257,7 @@ DISTANCE_SCALE = 200（4 维各差 100 的理论最大距离，常量写死）
 #### 结果页展示
 
 - **主结果**：最佳匹配人格全量解读
-- **Top-2 混合条**：「68% 海投摆烂吗喽 + 32% 佛系投递从不焦虑派」— 传播友好的混合展示（P0）
+- **Top-2 匹配条**：「68% 海投摆烂吗喽 + 32% 佛系投递从不焦虑派」— 两条独立匹配度进度条
 - **雷达图**：四维可视化，用户向量 vs 主人格标准向量叠加显示
 
 维度加权 `w1..w4` 记入 P2 可选，v1 不加权。
@@ -309,7 +309,7 @@ interpolate("距离 {{jobName}} 截止还有 {{daysLeft}} 天，今天先____",
 
 | 功能 | 描述 |
 |------|------|
-| **求职人格测试** | 12 题选择 → 实时四维打分 → 归一化 → 雷达图 → 人格结果页（Top-2 混合 + 解读 + 标签梗文案） |
+| **求职人格测试** | 12 题选择 → 实时四维打分 → 归一化 → 雷达图 → 人格结果页（Top-2 匹配 + 解读 + 标签梗文案） |
 | **Offer 拆解器** | 输入岗位名/截止日/岗位类型（P0: frontend+general）→ 8 步可执行任务 → 每步「换一句」局部刷新 |
 | **`poster-result` 海报** | Canvas 9:16 竖版：人格名 + 雷达图 + 标签梗 + Slogan + 免责小字；一键下载 PNG |
 | **可分享结果 URL** | `/#/result?p={personaId}&v={delay},{apply},{perfect},{interview}` — Hash 路由；`p` 必带，`v` 可选；无 `p` 则 redirect `/#/` |
@@ -375,7 +375,7 @@ offer-defuser/
 │   │   ├── StepCard/            # 拆解步骤卡片
 │   │   ├── RadarChart/          # 雷达图 (Canvas/SVG)
 │   │   ├── ShareCanvas/         # 海报生成画布 (两套模板)
-│   │   ├── PersonaResult/       # 人格结果展示 (含 Top-2 混合条)
+│   │   ├── PersonaResult/       # 人格结果展示 (含 Top-2 匹配条)
 │   │   └── ui/                  # 基础 UI 组件
 │   ├── stores/                  # 状态管理 (Zustand)
 │   │   ├── testStore.ts
@@ -535,7 +535,7 @@ Query (hash 之后):
 - [ ] `steps/general.json` 并行填充
 - [ ] `steps/state-owned.json` 标 P1，可延至 Week 4
 - [ ] TestPage: 答题流程 + 进度条 + 动画
-- [ ] ResultPage: 人格结果 + Top-2 混合条 + 雷达图 + 人格解读 + 免责声明
+- [ ] ResultPage: 人格结果 + Top-2 匹配条 + 雷达图 + 人格解读 + 免责声明
 - [ ] DefuserPage: 输入表单 + `DEFAULT_PERSONA` fallback + 8 步结果 +「换一句」
 - [ ] **R-002**: 模块串联 — NO_PERSONA Banner + ResultPage CTA
 - [ ] 基础响应式适配
